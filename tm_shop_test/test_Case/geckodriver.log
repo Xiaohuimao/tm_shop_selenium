@@ -1,0 +1,1777 @@
+1538296796837	geckodriver	INFO	geckodriver 0.18.0
+1538296796849	geckodriver	INFO	Listening on 127.0.0.1:50319
+1538296800119	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1538296803917	Marionette	INFO	Listening on port 50327
+1538296804301	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 28536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 29592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 29592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1384[Child 2952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2952, C[Child 31696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 31696, Chrome_C[GPU 13968
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538298550542	geckodriver	INFO	geckodriver 0.18.0
+1538298550549	geckodriver	INFO	Listening on 127.0.0.1:51060
+1538298553664	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1538298556235	Marionette	INFO	Listening on port 51068
+1538298556797	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 218[Child 30164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 30164, Chrome*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 24560
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538298627582	geckodriver	INFO	geckodriver 0.18.0
+1538298627590	geckodriver	INFO	Listening on 127.0.0.1:51192
+1538298630692	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1538298632735	Marionette	INFO	Listening on port 51200
+1538298633823	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1538298709715	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1538298711995	Marionette	INFO	Listening on port 51340
+1538298712842	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13488,[Child 9544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9544, C[Parent 20824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5624,*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 31552, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538298768166	geckodriver	INFO	geckodriver 0.18.0
+1538298768174	geckodriver	INFO	Listening on 127.0.0.1:51486
+1538298771291	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1538298773610	Marionette	INFO	Listening on port 51501
+1538298774412	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25424, Chrome_Chil[Parent 13164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538302290940	geckodriver	INFO	geckodriver 0.18.0
+1538302290948	geckodriver	INFO	Listening on 127.0.0.1:53980
+1538302294105	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1538302307510	Marionette	INFO	Listening on port 53988
+1538302307791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.360tianma.com/application/cms/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.360tianma.com/application/cms/static/js/hover-dropdown.js, line 135: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/assets/bxslider/jquery.bxslider.js, line 1316: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/jquery.parallax-1.1.3.js, line 69: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/assets/owlcarousel/owl.carousel.js, line 1512: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/jquery.easing.min.js, line 38: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/link-hover.js, line 621: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/superfish.js, line 257: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/parallax-slider/jquery.cslider.js, line 320: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/public/js/jquery.liMarquee.js, line 1309: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/, line 649: ReferenceError: $ is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/common-scripts.js, line 6: ReferenceError: $ is not defined
+JavaScript error: https://www.360tianma.com/, line 770: ReferenceError: $ is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/jquery.flexslider.js, line 904: ReferenceError: jQuery is not defined
+[Child 33228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromiu[Childm 10592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+/src/chrome/c[oCmhmon/ipc_channel_win.cc, line 346
+[Child 33[Parent 29628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 34476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 344[GPU 936
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538302403630	geckodriver	INFO	geckodriver 0.18.0
+1538302403638	geckodriver	INFO	Listening on 127.0.0.1:54061
+1538302406757	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1538302408955	Marionette	INFO	Listening on port 54071
+1538302409886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.360tianma.com/application/cms/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.360tianma.com/application/cms/static/js/hover-dropdown.js, line 135: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/assets/bxslider/jquery.bxslider.js, line 1316: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/jquery.parallax-1.1.3.js, line 69: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/assets/owlcarousel/owl.carousel.js, line 1512: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/jquery.easing.min.js, line 38: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/link-hover.js, line 621: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/superfish.js, line 257: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/parallax-slider/jquery.cslider.js, line 320: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/public/js/jquery.liMarquee.js, line 1309: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/, line 649: ReferenceError: $ is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/common-scripts.js, line 6: ReferenceError: $ is not defined
+JavaScript error: https://www.360tianma.com/, line 770: ReferenceError: $ is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/jquery.flexslider.js, line 904: ReferenceError: jQuery is not defined
+[Parent 29692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 29692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16612, Chro[Child 25152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2515[Child 18612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18612*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 10716
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538302451192	geckodriver	INFO	geckodriver 0.18.0
+1538302451200	geckodriver	INFO	Listening on 127.0.0.1:54112
+1538302454422	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1538302456514	Marionette	INFO	Listening on port 54121
+1538302457567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.360tianma.com/application/cms/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.360tianma.com/application/cms/static/js/hover-dropdown.js, line 135: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/assets/bxslider/jquery.bxslider.js, line 1316: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/jquery.parallax-1.1.3.js, line 69: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/assets/owlcarousel/owl.carousel.js, line 1512: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/jquery.easing.min.js, line 38: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/link-hover.js, line 621: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/superfish.js, line 257: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/parallax-slider/jquery.cslider.js, line 320: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/public/js/jquery.liMarquee.js, line 1309: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/, line 649: ReferenceError: $ is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/common-scripts.js, line 6: ReferenceError: $ is not defined
+JavaScript error: https://www.360tianma.com/, line 770: ReferenceError: $ is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/jquery.flexslider.js, line 904: ReferenceError: jQuery is not defined
+[Parent 33692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 33692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_[Child 33808, Chrome_ChildThread] WARNING: pipe error: 109: fchannel_win.cc, line 346
+ile z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 338[GPU 16072,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+com/application/cms/static/assets/bxslider/jquery.bxslider.js, line 1316: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/jquery.parallax-1.1.3.js, line 69: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/assets/owlcarousel/owl.carousel.js, line 1512: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/jquery.easing.min.js, line 38: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/link-hover.js, line 621: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/superfish.js, line 257: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/parallax-slider/jquery.cslider.js, line 320: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/public/js/jquery.liMarquee.js, line 1309: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/, line 649: ReferenceError: $ is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/common-scripts.js, line 6: ReferenceError: $ is not defined
+JavaScript error: https://www.360tianma.com/, line 770: ReferenceError: $ is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/jquery.flexslider.js, line 904: ReferenceError: jQuery is not defined
+[Parent 7648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13408, [Child 19112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19112, C[GPU 16252
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538972753431	geckodriver	INFO	geckodriver 0.18.0
+1538972753611	geckodriver	INFO	Listening on 127.0.0.1:49760
+1538972756533	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1538972769277	Marionette	INFO	Listening on port 49768
+1538972770195	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.360tianma.com/application/cms/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.360tianma.com/application/cms/static/js/hover-dropdown.js, line 135: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/assets/bxslider/jquery.bxslider.js, line 1316: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/jquery.parallax-1.1.3.js, line 69: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/assets/owlcarousel/owl.carousel.js, line 1512: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/jquery.easing.min.js, line 38: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/link-hover.js, line 621: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/superfish.js, line 257: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/parallax-slider/jquery.cslider.js, line 320: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/public/js/jquery.liMarquee.js, line 1309: ReferenceError: jQuery is not defined
+JavaScript error: https://www.360tianma.com/, line 649: ReferenceError: $ is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/common-scripts.js, line 6: ReferenceError: $ is not defined
+JavaScript error: https://www.360tianma.com/, line 770: ReferenceError: $ is not defined
+JavaScript error: https://www.360tianma.com/application/cms/static/js/jquery.flexslider.js, line 904: ReferenceError: jQuery is not defined
+[Child 27652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27[Child 19100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19100, C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538973915350	geckodriver	INFO	geckodriver 0.18.0
+1538973915358	geckodriver	INFO	Listening on 127.0.0.1:50561
+1538973918429	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1538973920809	Marionette	INFO	Listening on port 50571
+1538973921576	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line[Child 18200,  346
+Chrome[Chi_ChlildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18200, Ch[Parent 14244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2[GPU 268
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539059891774	geckodriver	INFO	geckodriver 0.18.0
+1539059891878	geckodriver	INFO	Listening on 127.0.0.1:58235
+1539059895132	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1539059921298	geckodriver	INFO	geckodriver 0.18.0
+1539059921309	geckodriver	INFO	Listening on 127.0.0.1:58287
+1539059924446	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1539059929251	Marionette	INFO	Listening on port 58309
+1539059929690	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[C[Child 33868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 33868,[Child 13300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 133[GPU 28
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539060120894	geckodriver	INFO	geckodriver 0.18.0
+1539060120926	geckodriver	INFO	Listening on 127.0.0.1:58642
+1539060124172	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1539060130203	Marionette	INFO	Listening on port 58650
+1539060130455	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 25204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 25204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26408, Chrome_ChildThread[Child 16604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chrom[Parent 25204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10996, Chrome_ChildThread] W
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rome/common/ipc_channel_win.cc, line 346
+[Child 31028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 31028, [GPU 8
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+kodriver 0.18.0
+1539060950176	geckodriver	INFO	Listening on 127.0.0.1:59541
+1539060953259	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1539060958473	Marionette	INFO	Listening on port 59549
+1539060958581	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540367412717	geckodriver	INFO	geckodriver 0.18.0
+1540367412730	geckodriver	INFO	Listening on 127.0.0.1:50506
+1540367415848	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1540367419489	Marionette	INFO	Listening on port 50514
+1540367419979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550140113260	geckodriver	INFO	geckodriver 0.18.0
+1550140113269	geckodriver	INFO	Listening on 127.0.0.1:50950
+1550140116131	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550140491573	geckodriver	INFO	geckodriver 0.18.0
+1550140491581	geckodriver	INFO	Listening on 127.0.0.1:51523
+1550140494715	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550140498823	Marionette	INFO	Listening on port 51536
+1550140498943	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 24668, Chrome_Ch[iCldThread] WARNING: pipe errorh:ild 25884, Chrome 109: f_iChildThlree azd] WARNING: pipe: /ebruriolrd:/ b109: file z:/build/build/src/ipc/chromium/src/ucild/src/ipc/chromium/src/chrome/common/ipc_channel_wihnr.ome/commocnc/ipc_c,h line 332a
+nnel_wi[nC.hcc, line 332
+[Ch[Parent 19420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 25004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550140528033	geckodriver	INFO	geckodriver 0.18.0
+1550140528041	geckodriver	INFO	Listening on 127.0.0.1:51610
+1550140531148	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550140534526	Marionette	INFO	Listening on port 51621
+1550140534827	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 26216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil[dC/hbuild/src/ipc/chromium/sricl/d 26148, Chrome_ChildThcrhrome/common/ipc_channel_win.cc, leiand] WARNING: pipee  3e3rror: 109: file z:/build/build/src2/
+ipc[/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 25692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ldThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 11284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 24668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550140874377	geckodriver	INFO	geckodriver 0.18.0
+1550140874385	geckodriver	INFO	Listening on 127.0.0.1:52305
+1550140877524	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550140880234	Marionette	INFO	Listening on port 52317
+1550140880677	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 27380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src[/chroCmhe/common/ipc_channel_win.cc, line 332
+ild 2[7640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 22532, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 26676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550141583515	geckodriver	INFO	geckodriver 0.18.0
+1550141583531	geckodriver	INFO	Listening on 127.0.0.1:53615
+1550141586647	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550141589203	Marionette	INFO	Listening on port 53627
+1550141589794	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 21324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/[bCuild/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332h
+ild 24480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[Parent 21324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ild][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550141661786	geckodriver	INFO	geckodriver 0.18.0
+1550141661794	geckodriver	INFO	Listening on 127.0.0.1:54071
+1550141664895	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550141668241	Marionette	INFO	Listening on port 54083
+1550141668554	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 23428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1550141686957	geckodriver::mario[Parent 23428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 23428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 27412, Chrome_ChildThread[]Child 27 1WARNING: pipe error: 109: file z:/build/bu2i8l,d/src/ipc/chromium/src/chrome/c oCmmon/ipc_channel_win.cc, line 332h
+rome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 27[Child 23276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+OThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550141793101	geckodriver	INFO	geckodriver 0.18.0
+1550141793110	geckodriver	INFO	Listening on 127.0.0.1:54587
+1550141796235	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550141798856	Marionette	INFO	Listening on port 54599
+1550141799400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shop.360tianma.com/, line 789: ReferenceError: layer is not defined
+console.error: (new TypeError("content.text is undefined", "resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js", 478))
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:478:1
+fetchStylesheet@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:408:18
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:388:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:358:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1260:12
+getApplied@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:472:13
+console.error: "Protocol error (unknownError): content.text is undefined"
+console.error: "Protocol error (unknownError): content.text is undefined"
+console.error: "Protocol error (unknownError): content.text is undefined"
+[Child 21684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc[_channel_win.cc, Child 25784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, linlei 332
+ne 332
+[C[Child 18572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550141981385	geckodriver	INFO	geckodriver 0.18.0
+1550141981393	geckodriver	INFO	Listening on 127.0.0.1:55270
+1550141984502	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550141986924	Marionette	INFO	Listening on port 55282
+1550141987643	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 24368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23468, Chrome_C[hildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chroCmhe/common/ipci_ld 15952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrcohmaen/nceolm_mwoin.cc, line 332n
+/ipc_c[hannel_win.cc, line 332
+[Ch[Parent 24368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 26784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+d][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550142145287	geckodriver	INFO	geckodriver 0.18.0
+1550142145295	geckodriver	INFO	Listening on 127.0.0.1:55856
+1550142148442	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550142150787	Marionette	INFO	Listening on port 55866
+1550142151577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shop.360tianma.com/, line 789: ReferenceError: layer is not defined
+[Parent 6436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 25988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 6436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 6436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23408, Chrom[Child 26496, eChrome_ChildThread] WARNIN_ChildThread] WARNING: pipe erG: pipe errorr: 109: file z:/build/build/src/ipc/cohromr: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+ium/src/chrome/common/ipc_channel_win.cc, line 332[Parent 6436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel
+_win.cc, line 332
+[Child 9980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550197669840	geckodriver	INFO	geckodriver 0.18.0
+1550197669855	geckodriver	INFO	Listening on 127.0.0.1:60185
+1550197673001	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550197676315	Marionette	INFO	Listening on port 60194
+1550197676665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shop.360tianma.com/, line 789: ReferenceError: layer is not defined
+[Child 2236, Chrome_ChildThread] WARNING: pi[Parent 25452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550200069765	geckodriver	INFO	geckodriver 0.18.0
+1550200069773	geckodriver	INFO	Listening on 127.0.0.1:62322
+1550200072910	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550200075423	Marionette	INFO	Listening on port 62333
+1550200076066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550200123088	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 8004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/c[Child 26396, Chrome_ChildThread] WARNINoGmmo:n/i ppci_pe error: 109: file z:/build/build/srcc/hiannel_win.cc, line 332pc/chromium/src/chrome/comm
+on/ipc_channel_win.cc, line 332
+[Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550200142759	geckodriver	INFO	geckodriver 0.18.0
+1550200142768	geckodriver	INFO	Listening on 127.0.0.1:62581
+1550200145901	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550200148396	Marionette	INFO	Listening on port 62594
+1550200149042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550200195288	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 12240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 12240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15168, Chrome_ChildThread] WARNING: pipe error: 109: file [zC:/build/build/shric/ipc/chromiuml/d 18356, Chrome_ChildThread]s WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332r
+c/ch[Crome/common/ipc_channel_win.cc, line 332
+[C[Parent 12240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550200233447	geckodriver	INFO	geckodriver 0.18.0
+1550200233456	geckodriver	INFO	Listening on 127.0.0.1:62918
+1550200236623	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550200239258	Marionette	INFO	Listening on port 62933
+1550200239772	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("content.text is undefined", "resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js", 478))
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:478:1
+fetchStylesheet@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:408:18
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:388:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:358:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1260:12
+getApplied@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:472:13
+console.error: "Protocol error (unknownError): content.text is undefined"
+console.error: "Protocol error (unknownError): content.text is undefined"
+console.error: "Protocol error (unknownError): content.text is undefined"
+[Parent 26136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 26136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14828, Chrome_ChildThread] WARNING: pipe error: 109: file[ Child 13332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bzu:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332i
+ld/b[uild/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 26136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550200350099	geckodriver	INFO	geckodriver 0.18.0
+1550200350108	geckodriver	INFO	Listening on 127.0.0.1:63324
+1550200353249	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550200355439	Marionette	INFO	Listening on port 63335
+1550200356421	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shop.360tianma.com/, line 789: ReferenceError: layer is not defined
+console.error: (new TypeError("content.text is undefined", "resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js", 478))
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:478:1
+fetchStylesheet@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:408:18
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:388:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:358:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1260:12
+getApplied@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:472:13
+console.error: "Protocol error (unknownError): content.text is undefined"
+console.error: "Protocol error (unknownError): content.text is undefined"
+console.error: "Protocol error (unknownError): content.text is undefined"
+[Parent 100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/[Child 18516,b uild/srcC/hrome_ChildThreiad] WARNING: pipep ce/chromium/src/chrome/commonr/ripc_channel_wor: 109: file z:/build/build/sricn.cc, line 332/
+ipc/[chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Child 26820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550201059884	geckodriver	INFO	geckodriver 0.18.0
+1550201059893	geckodriver	INFO	Listening on 127.0.0.1:64610
+1550201063003	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550201065200	Marionette	INFO	Listening on port 64624
+1550201066140	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("content.text is undefined", "resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js", 478))
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:478:1
+fetchStylesheet@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:408:18
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:388:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:358:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1260:12
+getApplied@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:472:13
+console.error: "Protocol error (unknownError): content.text is undefined"
+console.error: "Protocol error (unknownError): content.text is undefined"
+console.error: "Protocol error (unknownError): content.text is undefined"
+[Child 5496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bu[iChild 12148, Chrold/smrec_/Cipc/chhirldThread] WARNING: pipeo mium/src/echrome/common/rirpc_channel_woirn: 109.cc, line 332: file z:/build/build/sr
+c/i[pc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550201163750	geckodriver	INFO	geckodriver 0.18.0
+1550201163759	geckodriver	INFO	Listening on 127.0.0.1:64970
+1550201166894	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550201169107	Marionette	INFO	Listening on port 64981
+1550201170038	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 15776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 25072, Chrome_ChildThread] WARNING:[Child  24976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332p
+ipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[[Parent 15776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550298716255	geckodriver	INFO	geckodriver 0.18.0
+1550298716268	geckodriver	INFO	Listening on 127.0.0.1:50290
+1550298719565	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550298727945	Marionette	INFO	Listening on port 50301
+1550298727993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shop.360tianma.com/, line 789: ReferenceError: layer is not defined
+console.error: (new TypeError("content.text is undefined", "resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js", 478))
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:478:1
+fetchStylesheet@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:408:18
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:388:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:358:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1260:12
+getApplied@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:472:13
+console.error: "Protocol error (unknownError): content.text is undefined"
+console.error: "Protocol error (unknownError): content.text is undefined"
+console.error: "Protocol error (unknownError): content.text is undefined"
+[Parent 17420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 17420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/i[Child 9324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 17420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550299128855	geckodriver	INFO	geckodriver 0.18.0
+1550299128880	geckodriver	INFO	Listening on 127.0.0.1:50881
+1550299132057	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550299135867	Marionette	INFO	Listening on port 50889
+1550299136235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shop.360tianma.com/, line 789: ReferenceError: layer is not defined
+[Child 16280, Chrome_Chi[Parent 19220, Gecko_IldThread] WARNING: pipe error: 109: file z:/build/bOThurild/esarc/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+d] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550299228141	geckodriver	INFO	geckodriver 0.18.0
+1550299228151	geckodriver	INFO	Listening on 127.0.0.1:51062
+1550299231283	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550299235345	Marionette	INFO	Listening on port 51070
+1550299235447	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 18516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 18516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1448, Chrome[_ChildThread] WARNING: pipe error: 109: file z:/build/build/sCrhc/ipc/chromium/src/ichrome/common/ipc_chlandnel_win.cc, line 332 
+2132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 18516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550299655624	geckodriver	INFO	geckodriver 0.18.0
+1550299655635	geckodriver	INFO	Listening on 127.0.0.1:51408
+1550299658790	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550299662826	Marionette	INFO	Listening on port 51416
+1550299662998	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15668, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550299802676	geckodriver	INFO	geckodriver 0.18.0
+1550299802703	geckodriver	INFO	Listening on 127.0.0.1:51496
+1550299805917	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550299809490	Marionette	INFO	Listening on port 51505
+1550299809659	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1472, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[Child 15852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+hread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550299858286	geckodriver	INFO	geckodriver 0.18.0
+1550299858296	geckodriver	INFO	Listening on 127.0.0.1:51642
+1550299861515	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550299864286	Marionette	INFO	Listening on port 51654
+1550299864720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shop.360tianma.com/, line 789: ReferenceError: layer is not defined
+[Parent 5380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 5380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/b[Parent 13464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 13464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10980, Chrome_ChildThread] WARNING: pipe erro[rChild 1:5 3109: file z:/build/bui5l2d/sr, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.ccc/,ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332 l
+ine 332
+[C[Parent 13464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550310737614	geckodriver	INFO	geckodriver 0.18.0
+1550310737624	geckodriver	INFO	Listening on 127.0.0.1:52586
+1550310740955	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550310745780	Marionette	INFO	Listening on port 52596
+1550310746271	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14792, Chrome_Ch[ilCdThhrild 1656, Chroead] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332m
+e_C[hildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550310840771	geckodriver	INFO	geckodriver 0.18.0
+1550310840797	geckodriver	INFO	Listening on 127.0.0.1:52797
+1550310844141	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550310848270	Marionette	INFO	Listening on port 52806
+1550310848424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shop.360tianma.com/, line 789: ReferenceError: layer is not defined
+[Parent 11284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: https://shop.360tianma.com/template/pc/rainbow/static/js/jquery-1.11.3.min.js, line 4: TypeError: b.ownerDocument.defaultView is null
+[Child 6792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/s[rPca/chrome/common/ipc_channel_win.cc, line 332r
+en[Ct 11284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 7660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 11284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[[GPU 70
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550311005461	geckodriver	INFO	geckodriver 0.18.0
+1550311005476	geckodriver	INFO	Listening on 127.0.0.1:53097
+1550311008840	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550311013091	Marionette	INFO	Listening on port 53106
+1550311014108	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 32, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: https://shop.360tianma.com/template/pc/rainbow/static/js/jquery-1.11.3.min.js, line 4: TypeError: b.ownerDocument.defaultView is null
+[Parent 32, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 127
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550312288062	geckodriver	INFO	geckodriver 0.18.0
+1550312288071	geckodriver	INFO	Listening on 127.0.0.1:54685
+1550312291288	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550312300565	Marionette	INFO	Listening on port 54698
+1550312300758	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 5352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6432, Ch[Child 11132, Chrome_ChildThread] WARNrome_ChildThread] WARNING: pIiNpGe:  eprirpor: 109: file z:/build/buiel error: 109: file z:/build/d/src/ibuild/src/ipc/chromium/src/chrome/commopn/cip/c_channel_win.cc, line 332c
+hromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 5352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550312380121	geckodriver	INFO	geckodriver 0.18.0
+1550312380131	geckodriver	INFO	Listening on 127.0.0.1:54964
+1550312383344	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550312387593	Marionette	INFO	Listening on port 54976
+1550312388603	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7160, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000F,name=PHttpChannel::Msg___delete__) Channel error: cannot send/recv
+
+[Child 7160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_chann
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel error: cannot send/recv
+
+el_
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+[Parent 15776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550312502920	geckodriver	INFO	geckodriver 0.18.0
+1550312502943	geckodriver	INFO	Listening on 127.0.0.1:55310
+1550312506228	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550312511927	Marionette	INFO	Listening on port 55321
+1550312512056	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shop.360tianma.com/, line 789: ReferenceError: layer is not defined
+[Parent 14872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+console.error: (new TypeError("can't access dead object", "resource://devtools/shared/base-loader.js -> resource://devtools/server/css-logic.js", 125))
+highlight@resource://devtools/shared/base-loader.js -> resource://devtools/server/css-logic.js:125:9
+getApplied@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:464:5
+handler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1106:19
+onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1769:15
+receiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:760:7
+console.error: (new TypeError("can't access dead object", "resource://devtools/shared/base-loader.js -> resource://devtools/server/css-logic.js", 125))
+highlight@resource://devtools/shared/base-loader.js -> resource://devtools/server/css-logic.js:125:9
+getApplied@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:464:5
+handler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1106:19
+onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1769:15
+receiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:760:7
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js, line 1328: TypeError: currentPanel is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/utils/markup.js, line 243: TypeError: this.highlighterEnv is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/walker.js, line 283: TypeError: this._refMap is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+console.error: (new TypeError("ele.ownerGlobal is null", "resource://gre/modules/css-selector.js", 59))
+findCssSelector@resource://gre/modules/css-selector.js:59:7
+getUniqueSelector@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:520:12
+handler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1106:19
+onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1769:15
+receiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:760:7
+console.error: "Protocol error (unknownError): ele.ownerGlobal is null"
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: https://shop.360tianma.com/index.php?m=Admin&c=Finance&a=expense_log, line 823: TypeError: $(...).layDate is not a function
+[Parent 14872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 14872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 14872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 14872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 14872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17924, Chrome_ChildThread] WARNING[Child 1916, Chrome_ChildThread:[[[] CCChild 6652, Chrome_ChildThreadphh ]iiild 16520, ChroplW medAWe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332RA_ 
+NRC[CNh2IING: pipe i0Nel524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/iGrdp:rTc oh/chromium/src/chromerrp/: 109:cei oapfmdeimon/ipc_cl] he WARNING: pipe error: 109: file z:/build/build/src/ipc/chromiua emnzr/n:/build/build/src/ipc/chromium/srersclorc/chrome/common/ipc_channel_win.cc, line 332
+/_rcw:hromei /n1c.cc, line 3320o
+9mmon/ip:c _fcile z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_winh.acncn,el_win .lcc, line 33i2n
+e 332[
+C[Chil[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550415106297	geckodriver	INFO	geckodriver 0.18.0
+1550415106328	geckodriver	INFO	Listening on 127.0.0.1:49345
+1550415109646	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550415114955	Marionette	INFO	Listening on port 49357
+1550415115435	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: https://shop.360tianma.com/, line 789: ReferenceError: layer is not defined
+1550415247247	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1550415247249	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 15380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550415346203	geckodriver	INFO	geckodriver 0.18.0
+1550415346238	geckodriver	INFO	Listening on 127.0.0.1:49993
+1550415349457	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550415352937	Marionette	INFO	Listening on port 50004
+1550415353132	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 19312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550416102820	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1550416102822	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 19312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chil[Child 13520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550456693998	geckodriver	INFO	geckodriver 0.18.0
+1550456694007	geckodriver	INFO	Listening on 127.0.0.1:51860
+1550456697080	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550456700520	Marionette	INFO	Listening on port 51873
+1550456700784	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14960, Chrome_ChildThread]IPDL protocol error: Handler returned error code!
+ WARNING: pipe error: 109: file z:/build/build/
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[ChilIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 9576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550464229598	geckodriver	INFO	geckodriver 0.18.0
+1550464229607	geckodriver	INFO	Listening on 127.0.0.1:49428
+1550464232731	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550464235394	Marionette	INFO	Listening on port 49438
+1550464235868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550464300063	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransa1550464607493	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550464609944	Marionette	INFO	Listening on port 50270
+1550464610634	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+ocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 12844, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 12844, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550464704768	geckodriver	INFO	geckodriver 0.18.0
+1550464704776	geckodriver	INFO	Listening on 127.0.0.1:50623
+1550464707903	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550464710312	Marionette	INFO	Listening on port 50636
+1550464711055	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2808, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+console.error: (new TypeError("content.text is undefined", "resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js", 478))
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:478:1
+fetchStylesheet@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:408:18
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:388:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:358:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1260:12
+getApplied@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:472:13
+console.error: "Protocol error (unknownError): content.text is undefined"
+console.error: "Protocol error (unknownError): content.text is undefined"
+console.error: "Protocol error (unknownError): content.text is undefined"
+[Parent 2808, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 2808, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 948, Chrome_Chi[Child 5l5dThread] 6W4A,R CNhIrNoG: mpeipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 2808, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550465304466	geckodriver	INFO	geckodriver 0.18.0
+1550465304474	geckodriver	INFO	Listening on 127.0.0.1:52083
+1550465307601	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550465310429	Marionette	INFO	Listening on port 52095
+1550465310767	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 21812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.c[Child 16616, Cc, line 332h
+ro[Childme_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[Parent 21812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C1550465858823	geckodriver	INFO	geckodriver 0.18.0
+1550465858831	geckodriver	INFO	Listening on 127.0.0.1:53502
+1550465861926	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550465864534	Marionette	INFO	Listening on port 53514
+1550465865069	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16908, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 298
+[Parent 16908, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 298
+[Parent 16908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8552, Chrome_ChildThread] WARNING: pipe error: 109: fi[Chle z:/build/build/src/ipc/chromiild 18684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipcum/src/chrome/common/ipc_chan/ncheromium/src/chrome/common/ipc_l_win.cc, line 332c
+hannel_win.cc, line 332
+[[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 180: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+n
+1550471678358	geckodriver	INFO	geckodriver 0.18.0
+1550471678367	geckodriver	INFO	Listening on 127.0.0.1:64704
+1550471681485	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550471684413	Marionette	INFO	Listening on port 64715
+1550471684624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550471933255	geckodriver	INFO	geckodriver 0.18.0
+1550471933264	geckodriver	INFO	Listening on 127.0.0.1:65311
+1550471936369	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550471938880	Marionette	INFO	Listening on port 65324
+1550471939554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550572982845	geckodriver	INFO	geckodriver 0.18.0
+1550572982859	geckodriver	INFO	Listening on 127.0.0.1:58829
+1550572986061	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550572990977	Marionette	INFO	Listening on port 58847
+1550572991492	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 25888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1713[Parent 25888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550632621102	geckodriver	INFO	geckodriver 0.18.0
+1550632621112	geckodriver	INFO	Listening on 127.0.0.1:55338
+1550632624433	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550632628070	Marionette	INFO	Listening on port 55349
+1550632628102	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1708, Chrome_ChildTh[rCehaild 2d] [5WC412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/hAcommon/ipc_channel_win.cc, line 332
+iRld 1416[0, Chrome_ChildNTIhNrGe:ad] WARNING: pipe error: 109: file z:/build/build/src/ipc/ c[Chphromiumii/pe error: 109: lfsrc/chrome/commodile z:/build/bui 22980, n/ipc_chaClnhrome_ChildThread]nd e/Wl_win.cc, line 33Asrc/ipc/chromium/src/chr2
+ome/[RNIcNoGm: pipe errorm: 109: on/ipc_channel_win.cc, line 332
+[file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550633131593	geckodriver	INFO	geckodriver 0.18.0
+1550633131602	geckodriver	INFO	Listening on 127.0.0.1:56456
+1550633134729	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550633137678	Marionette	INFO	Listening on port 56469
+1550633137960	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550634414030	geckodriver	INFO	geckodriver 0.18.0
+1550634414040	geckodriver	INFO	Listening on 127.0.0.1:58626
+1550634417146	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550634419987	Marionette	INFO	Listening on port 58640
+1550634420336	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 19120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17856, Chrome_ChildThread] WARN[ICNG: pipe error: 109: file zh:i/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_winl.dc c13320, Chrome_ChildThread] WARNING: pipe error,:  109: file z:/build/build/src/liipnce 332/
+chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 19120, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[GPU 167
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550636760496	geckodriver	INFO	geckodriver 0.18.0
+1550636760505	geckodriver	INFO	Listening on 127.0.0.1:64299
+1550636763632	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550636766190	Marionette	INFO	Listening on port 64310
+1550636766782	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/[cChild 21550636864865	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550636867239	Marionette	INFO	Listening on port 64712
+1550636868006	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 15536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21756, Chro[mChild 13436, Chrome_ChildeT_hCrhead] WARNING: pipe ielrror: 109: file z:/build/build/sdrTchread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332/
+ipc/c[hromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[Parent 15536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 26112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 202
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550636908799	geckodriver	INFO	geckodriver 0.18.0
+1550636908808	geckodriver	INFO	Listening on 127.0.0.1:64917
+1550636911910	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550636914390	Marionette	INFO	Listening on port 64927
+1550636915046	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 17592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19360, Chrome_ChildThread] WARNING: pipe error: 109: file [zChild 19876, Chrome_ChildThread:] WARNING/: pipe ebruild/build/src/irpor: 109: cf/ile z:/cbhuild/buildromi/usmr/csrc/chrome/com/moni/picpc_c/chromium/src/chrome/common/ipc_channel_win.cc, lihnaen n3el_win.cc, line 3323
+2
+[Ch[[Parent 17592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5728, C[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550637154725	geckodriver	INFO	geckodriver 0.18.0
+1550637154734	geckodriver	INFO	Listening on 127.0.0.1:49198
+1550637157900	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550637160157	Marionette	INFO	Listening on port 49208
+1550637161044	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13152, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 13152, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil[Child 13668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+d/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child [GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550637816512	geckodriver	INFO	geckodriver 0.18.0
+1550637816530	geckodriver	INFO	Listening on 127.0.0.1:50372
+1550637819652	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550637822212	Marionette	INFO	Listening on port 50384
+1550637822798	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 20584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 20584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21136, Chrome_ChildThread] WARNING: pipe[ Cerror: 109: file z:/build/build/src/ipc/chromium/src/chrome/comhmild 1452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/ocn/ipc_channel_win.cc, olmimne 332o
+n/ipc_channel_win.cc, line 332
+[Child 1452, C[Parent 20584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550638080928	geckodriver	INFO	geckodriver 0.18.0
+1550638080940	geckodriver	INFO	Listening on 127.0.0.1:51062
+1550638084048	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550638086527	Marionette	INFO	Listening on port 51074
+1550638087204	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child [Parent 13648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550638481546	geckodriver	INFO	geckodriver 0.18.0
+1550638481556	geckodriver	INFO	Listening on 127.0.0.1:51995
+1550638484652	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550638487340	Marionette	INFO	Listening on port 52006
+1550638487791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shop.360tianma.com/, line 789: ReferenceError: layer is not defined
+[Parent 16664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc[,C line 332
+hil[d 9532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[Parent 16664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550660377928	geckodriver	INFO	geckodriver 0.18.0
+1550660377937	geckodriver	INFO	Listening on 127.0.0.1:57788
+1550660381210	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550660385646	Marionette	INFO	Listening on port 57804
+1550660386590	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20056, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1550660984080	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550660986892	Marionette	INFO	Listening on port 59053
+1550660987398	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[GPU 2
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ldThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 2871
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550661131058	geckodriver	INFO	geckodriver 0.18.0
+1550661131067	geckodriver	INFO	Listening on 127.0.0.1:59577
+1550661134166	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550661136629	Marionette	INFO	Listening on port 59592
+1550661137306	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20568, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 298
+[Parent 20568, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 298
+[Child 2412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/b[uChild 30352, Chrome_ChildThread] WiAld/src/ipc/chromium/src/RchrNome/common/iIpNc_channel_win.cc, line 3G3:2 pipe error: 109: file z:/build
+/build/src/[iCphc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Child 28088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 230
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550661308788	geckodriver	INFO	geckodriver 0.18.0
+1550661308798	geckodriver	INFO	Listening on 127.0.0.1:60203
+1550661311909	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550661314505	Marionette	INFO	Listening on port 60215
+1550661315054	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21556, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 298
+[Parent 21556, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 298
+[Parent 21556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 21556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 30716, Chrome_ChildThread] WARNING: pipe error: 109:[Child 12920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_chann el_win.cc, line 332
+fi[Chle z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[Parent 21556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 30476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550716867247	geckodriver	INFO	geckodriver 0.18.0
+1550716867262	geckodriver	INFO	Listening on 127.0.0.1:50197
+1550716870019	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550716873334	Marionette	INFO	Listening on port 50207
+1550716873699	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 28940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 28940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15700, Chrome_Child[TChread] WARNING: pipe heirlrdo r1:7 910089,:  Cfile z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.hcrco,m eline 332_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+[[C[Parent 28940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 26948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+read] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 29968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 299
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550717298016	geckodriver	INFO	geckodriver 0.18.0
+1550717298026	geckodriver	INFO	Listening on 127.0.0.1:50882
+1550717301139	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550717303592	Marionette	INFO	Listening on port 50892
+1550717304285	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 87[Child 27952, Chrome_ChildThread] WARNING: pipe error: 109: file z1550717802808	Marionette	INFO	Listening on port 51669
+1550717803263	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shop.360tianma.com/, line 789: ReferenceError: layer is not defined
+[Child 13176, Chrome_ChildThread] WARNING: pipe [Cehild 76r3r6o,r: Chrome_ChildTh r109: filee azd:]/ bWuAild/build/src/ipc/chRNINromium/src/cGh: rpome/common/ipc_chaninpe erreol_win.cc, line 332
+r: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[Child 31116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 24
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+arionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shop.360tianma.com/, line 789: ReferenceError: layer is not defined
+[Parent 27324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 27324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 27324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6584, Chrome[_Child 27772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/srcC/hcihrome/common/ipc_channelld_win.cc, line 332
+Thread] WA[ChildRNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 11
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550724689029	geckodriver	INFO	geckodriver 0.18.0
+1550724689044	geckodriver	INFO	Listening on 127.0.0.1:49872
+1550724692204	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550724695654	Marionette	INFO	Listening on port 49890
+1550724695966	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shop.360tianma.com/, line 789: ReferenceError: layer is not defined
+1550724743553	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 19504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win[.Child 29676, Chrome_ChildcTc, line 332
+hread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 29676, Chrome_ChildT[Child 6624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[[GPU 3
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550724974699	geckodriver	INFO	geckodriver 0.18.0
+1550724974709	geckodriver	INFO	Listening on 127.0.0.1:50943
+1550724977834	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550724980645	Marionette	INFO	Listening on port 50960
+1550724980983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550725024534	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 18464, Chrome_ChildThread] WARNING: pip[Pae errror: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332e
+nt 19256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ild/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550732345238	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 10908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 10908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18460, Chrome_ChildThr[eCahd] WARNING: pipe error: 109: file z:/build/builidl/d 27156, Chrome_ChildThread] WARNsrc/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 3I3NG: pip2e error: 109: f
+ile z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550736779835	geckodriver	INFO	geckodriver 0.18.0
+1550736779845	geckodriver	INFO	Listening on 127.0.0.1:52887
+1550736782936	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550736785663	Marionette	INFO	Listening on port 52908
+1550736786095	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 21304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 29780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550806648894	geckodriver	INFO	geckodriver 0.18.0
+1550806648927	geckodriver	INFO	Listening on 127.0.0.1:59111
+1550806652016	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550806655093	Marionette	INFO	Listening on port 59121
+1550806655216	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 27500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1550806954006	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550806956511	Marionette	INFO	Listening on port 59532
+1550806957149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550807021623	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 30140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 30288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[Parent 30140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 25488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550807517589	geckodriver	INFO	geckodriver 0.18.0
+1550807517611	geckodriver	INFO	Listening on 127.0.0.1:60015
+1550807520675	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550807523132	Marionette	INFO	Listening on port 60024
+1550807523815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shop.360tianma.com/, line 789: ReferenceError: layer is not defined
+[Parent 2136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common1550807732868	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550807735252	Marionette	INFO	Listening on port 60436
+1550807736008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550808038843	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 23808, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 23808, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 23808, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+romium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 17560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 17560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3032, Chrome_ChildThread] WARNING: pipe error: [1C0h9: file z:/build/build/src/ipc/chromium/src/chrome/comimon/ipc_channel_lwind.cc, li ne 332
+20476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chil[Child 8968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child [GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rc/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1[Child 240000, Chrome_ChildThread] WARNING: pipe error: 109: file[Parent 9360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 30700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/[sCrc/iphild 14716, Chrome_ChildTch/rchromiuema/dsrc/chrome/common/ipc_channel]_ WARNING: pipe ewriror: 109: filen .zc:c/, line 332
+build[/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Child 7624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550819774177	Marionette	INFO	Listening on port 60423
+1550819774187	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 32940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 32940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 32816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_cha[nChild 17588, Chrome_ChildThread] WARNING: pipe neerror:l 109: file z:/build/build/src/ipc/chromium/sr_cw/icnh.rocmc, line 332e
+/common/ipc_channel_win.cc, line 332
+[C[Child 33448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550820071101	geckodriver	INFO	geckodriver 0.18.0
+1550820071110	geckodriver	INFO	Listening on 127.0.0.1:61462
+1550820074174	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550820076549	Marionette	INFO	Listening on port 61479
+1550820077330	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550820208748	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 7580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 7580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 28024, Chrome_ChildThread] WARNING: pipe error: 109: file z:[Child 33760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+/build/[build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[Parent 7580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 27864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ld/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 33696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550827719951	geckodriver	INFO	geckodriver 0.18.0
+1550827719966	geckodriver	INFO	Listening on 127.0.0.1:51064
+1550827723067	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550827725597	Marionette	INFO	Listening on port 51081
+1550827726253	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 32856, Chrome_ChildThread] WARN[ICNG: piphei lerror: 109: filde z:/bui1550830141492	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 32816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 32816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 33992, Chrome_ChildThr[eCahildd 29208], WARNIN GC: phipe errroome_ChildThreadr]: 109: file z:/build/build/src/ipc/chromium/src/c hWrAoRmNIeN/Gcommon/ipc_channel_win.cc, line 332:
+ pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Child 33772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550896785834	geckodriver	INFO	geckodriver 0.18.0
+1550896785858	geckodriver	INFO	Listening on 127.0.0.1:53715
+1550896789013	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550896796127	Marionette	INFO	Listening on port 53725
+1550896797074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550897223332	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1550897223335	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 7904, Gecko_IOThread] W1550897226067	Marionette	INFO	Listening on port 54140
+1550897226235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shop.360tianma.com/, line 642: ReferenceError: videojs is not defined
+[Child 23672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build[/Cbuilhd/src/ipc/chromium/src/chrome/commild 17996, Chrome_ChildThread] WARNING: pipe error: 1on/ipc_channel_win.cc, line 33209
+:[Chil d 23672, Chrome_ChifldThrielad] WAeR NzIN:G/: pipe error: 1b0uild/bu9i:ld/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chil[[GPU 7
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550897458796	geckodriver	INFO	geckodriver 0.18.0
+1550897458807	geckodriver	INFO	Listening on 127.0.0.1:54324
+1550897461941	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550897464819	Marionette	INFO	Listening on port 54332
+1550897465138	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 24308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 24308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[Parent 16132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[GPU 1550987801411	geckodriver	INFO	geckodriver 0.18.0
+1550987801437	geckodriver	INFO	Listening on 127.0.0.1:55121
+1550987804444	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550987808864	Marionette	INFO	Listening on port 55131
+1550987809711	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 23672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 25164, Chrome_ChildThread] WARNING: pip[eC heild 28284, Chrome_ChildThreadrror: 109]: f ilWe z:/build/build/src/ipc/chromium/src/chrome/comAmon/ipc_channel_win.cc, line 332
+R[NING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child [Parent 23672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+_Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550988149699	geckodriver	INFO	geckodriver 0.18.0
+1550988149740	geckodriver	INFO	Listening on 127.0.0.1:55884
+1550988152929	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550988157002	Marionette	INFO	Listening on port 55895
+1550988157129	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 25424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550988301173	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 12944, Chro[Parent 25424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chrome_ChildThread] WARNINGm:i pipe error: 109: file z:/build/build/sum/src/chrome/common/ipc_rcchannel_win.cc, l/iinpc/chre 332
+omium/src/chrome/common/[iCpc_channel_win.cc, line 332
+hild 34152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 25424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 32944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550988306394	geckodriver	INFO	geckodriver 0.18.0
+1550988306432	geckodriver	INFO	Listening on 127.0.0.1:56109
+1550988309727	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550988313069	Marionette	INFO	Listening on port 56119
+1550988313380	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550988471154	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1550988471156	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 32228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child [Parent 15224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 34712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550988684338	geckodriver	INFO	geckodriver 0.18.0
+1550988684378	geckodriver	INFO	Listening on 127.0.0.1:56628
+1550988687496	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550988690899	Marionette	INFO	Listening on port 56636
+1550988691209	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10532, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 10532, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1550989148617	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550989152730	Marionette	INFO	Listening on port 57259
+1550989152768	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15784, Chrome[_CChild 26812,hildTh Chrome_ChildrTeharead] WAdR]N ING:WARNING: pipe err opir: 10pe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+9: file [z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 9268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 31452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 248
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550989308395	geckodriver	INFO	geckodriver 0.18.0
+1550989308434	geckodriver	INFO	Listening on 127.0.0.1:57643
+1550989311608	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550989315042	Marionette	INFO	Listening on port 57653
+1550989315353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550989503465	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1550989503468	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 13596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 13596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 33660, Chrome_Child[CThread] WARNhild 12744, Chrome_ChildThread] WARNING: ING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[Child 32348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 2
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550989507054	geckodriver	INFO	geckodriver 0.18.0
+1550989507067	geckodriver	INFO	Listening on 127.0.0.1:58021
+1550989510266	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550989513686	Marionette	INFO	Listening on port 58033
+1550989513969	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550989714676	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1550989714680	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 1032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 1032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 28316, Chrome[_CChildThread]hild 22004, Chrome_ChildThread] WARNIN GW: pipe error: 109: file z:/build/build/src/iARNING: pipe error: 109: file z:/build/build/spc/chromium/src/chrome/common/ipc_channel_win.cc, line 3r3c2/
+ipc/chromiu[mC/src/chrome/common/ipc_channel_win.cc, line 332
+[Chil[Child 33280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550989724182	geckodriver	INFO	geckodriver 0.18.0
+1550989724218	geckodriver	INFO	Listening on 127.0.0.1:58458
+1550989727394	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550989730753	Marionette	INFO	Listening on port 58467
+1550989731043	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550989849422	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1550989849426	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 17732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/b[uild/src/Ciphild 23868, Chc/chromroemium/src/chrome/common/ipc_channel_win.cc, line 332
+_Ch[ildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 20580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550991742759	geckodriver	INFO	geckodriver 0.18.0
+1550991742778	geckodriver	INFO	Listening on 127.0.0.1:59125
+1550991746056	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550991749382	Marionette	INFO	Listening on port 59133
+1550991749736	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 34176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 34176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 34176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15284, Chrome_ChildThread] [WCAhild R3N2600, Chrome_ChildThreadI]N WARNING: pipe error: 109: file z:/build/build/src/ipc/chromiGu: pipe error: 109: file z:/build/build/m/src/chrome/common/ipc_channel_win.cc, line 332
+src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550991910052	geckodriver	INFO	geckodriver 0.18.0
+1550991910096	geckodriver	INFO	Listening on 127.0.0.1:59562
+1550991913205	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550991916420	Marionette	INFO	Listening on port 59570
+1550991916865	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+console.error: (new TypeError("content.text is undefined", "resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js", 478))
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:478:1
+fetchStylesheet@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:408:18
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:388:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:358:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1260:12
+getApplied@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:472:13
+console.error: "Protocol error (unknownError): content.text is undefined"
+console.error: "Protocol error (unknownError): content.text is undefined"
+console.error: "Protocol error (unknownError): content.text is undefined"
+[Parent 22336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 22336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[ild 13740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[[Child 34560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550992399271	geckodriver	INFO	geckodriver 0.18.0
+1550992399309	geckodriver	INFO	Listening on 127.0.0.1:60149
+1550992402536	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550992405845	Marionette	INFO	Listening on port 60157
+1550992406190	Marionette	WARN	TLS certificate errors will be ignored for this session
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1743:11
+send/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:569:13
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1743, column: 11
+console.error: "Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null\nStack: onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1743:11\nsend/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:569:13\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1743, column: 11"
+[Parent 20240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 20240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 24792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332[
+Child 23284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[Parent 20240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550992634003	geckodriver	INFO	geckodriver 0.18.0
+1550992634035	geckodriver	INFO	Listening on 127.0.0.1:60567
+1550992637140	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550992640727	Marionette	INFO	Listening on port 60587
+1550992640787	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 17380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 17380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 24584, Chrome_Chi[Child 32908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chlrome/codmThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332mon/ipc_channel_win.cc, li
+ne 332
+[Chi[Parent 17380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 28256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550994478863	geckodriver	INFO	geckodriver 0.18.0
+1550994478891	geckodriver	INFO	Listening on 127.0.0.1:62213
+1550994482006	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550994485568	Marionette	INFO	Listening on port 62222
+1550994485717	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1376, Chro[mPea_ChrielndtT h29568, rGeeacko_IOdT]h rWeAaRdN]I NWGA:R NpIiNpGe:  errorpipe err:o r1:0 9: file z:/buil1d0/9build/src/ipc/chro:m ifuiml/es rzc://cbhuriolmd/eb/uciolmdm/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332o
+n/ipc_channel_wi[nC.hild 33048, Chromec_cC,h illdThrienaed ]3 WARNING: pipe error: 1093:2 
+file z:/bu[Cild/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 2
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550994687933	geckodriver	INFO	geckodriver 0.18.0
+1550994687956	geckodriver	INFO	Listening on 127.0.0.1:62689
+1550994691087	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550994694412	Marionette	INFO	Listening on port 62699
+1550994694748	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 20336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18224, Chrome_Child[Child 21196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550995061564	geckodriver	INFO	geckodriver 0.18.0
+1550995061622	geckodriver	INFO	Listening on 127.0.0.1:63443
+1550995064883	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550995070372	Marionette	INFO	Listening on port 63451
+1550995070700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550995212036	geckodriver	INFO	geckodriver 0.18.0
+1550995212046	geckodriver	INFO	Listening on 127.0.0.1:63767
+1550995215209	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550995498518	geckodriver	INFO	geckodriver 0.18.0
+1550995498531	geckodriver	INFO	Listening on 127.0.0.1:64288
+1550995501927	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550995507218	Marionette	INFO	Listening on port 64298
+1550995507249	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 19608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 19608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2[Child 33232, Chrome_ChildThread] WARNING: pipe error9: 109: file z:/build/build/src/ipc/044,c hChrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_chanrnel_win.cc, line 332
+om[ium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 19608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550996767135	geckodriver	INFO	geckodriver 0.18.0
+1550996767175	geckodriver	INFO	Listening on 127.0.0.1:49225
+1550996770285	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550996777255	Marionette	INFO	Listening on port 49235
+1550996777653	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550997144300	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1550997144306	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 27236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 27236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 32520, Chrome_ChildThread] WARNING:[Child 14364, Chro pipe error: 109: filme_ChildThe z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+read] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Child 30956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550997200454	geckodriver	INFO	geckodriver 0.18.0
+1550997200488	geckodriver	INFO	Listening on 127.0.0.1:49903
+1550997203646	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1550997209638	Marionette	INFO	Listening on port 49913
+1550997210014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551008401966	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1551008402683	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 10704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[[Parent 17980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 27480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1551070006463	geckodriver	INFO	geckodriver 0.18.0
+1551070006597	geckodriver	INFO	Listening on 127.0.0.1:56973
+1551070009291	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1551070013889	Marionette	INFO	Listening on port 56981
+1551070014549	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 33408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_[wChild 31288, Chrome_ChildThreaid] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+n.cc, line 332
+[C[[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1551070812114	geckodriver	INFO	geckodriver 0.18.0
+1551070812126	geckodriver	INFO	Listening on 127.0.0.1:57833
+1551070815278	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1551070818865	Marionette	INFO	Listening on port 57842
+1551070819026	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1551070897025	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 12948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1551070980879	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1551070984563	Marionette	INFO	Listening on port 58296
+1551070985079	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1551071045055	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 27456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 27456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 27196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc[/chromium/srChild 23688, Chrome_ChildTchread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_cha/chrome/common/ipc_channel_win.cc, line 332
+nn[el_win.cc, line 332
+[C[Parent 27456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 24
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+5 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4446
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2293
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+1551072776525	geckodriver	INFO	geckodriver 0.18.0
+1551072776621	geckodriver	INFO	Listening on 127.0.0.1:59522
+1551072779683	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1551072784916	Marionette	INFO	Listening on port 59530
+1551072785095	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 33724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1551072888550	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 33724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 33724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ctivity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4446
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2293
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+1551073003610	geckodriver	INFO	geckodriver 0.18.0
+1551073003621	geckodriver	INFO	Listening on 127.0.0.1:59996
+1551073006760	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1551073010635	Marionette	INFO	Listening on port 60005
+1551073011027	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 17520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 17520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16940, Chrome_ChildThread] WARNING: [pChild 22712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_chainnepe error: 109: file z:/build/builld/s_win.cc, line 332
+rc/[ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1551073148825	geckodriver	INFO	geckodriver 0.18.0
+1551073148837	geckodriver	INFO	Listening on 127.0.0.1:60351
+1551073151935	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1551073154754	Marionette	INFO	Listening on port 60360
+1551073155135	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18336, Ch[rCome_ChildThrheiad] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrlodm e3/4c7o1mmon/ipc_channel_win.cc, line 3322
+, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chil[Child 30948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 3
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1551073180905	geckodriver	INFO	geckodriver 0.18.0
+1551073180917	geckodriver	INFO	Listening on 127.0.0.1:60483
+1551073184070	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1551073186957	Marionette	INFO	Listening on port 60494
+1551073187278	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6104, Chrom[eC_hCihldildThread]  W1AR2368, Chrome_ChildThread] WARNING: pipe errNINGo:r pipe error: 109::  109: file z:/bfuile z:/ibludi/buld/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cicl, lined/sr c332
+/i[Chpc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12368, Chrome_ChildThread] WARNING: pip[Parent 33176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 31696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1551086134385	geckodriver	INFO	geckodriver 0.18.0
+1551086134396	geckodriver	INFO	Listening on 127.0.0.1:59902
+1551086137561	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1551086143366	Marionette	INFO	Listening on port 59914
+1551086143836	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 32524, [Child 36852, ChrChroommee__CChhiilldThread] WARNING: pipe errord:Thread] WARNING 109: file z:/build/build/src/ipc/chromi: pipe error: 109: file z:/build/build/src/ipc/cuhmromium/src/chrome/common/ipc_channel_win.cc, line 332/
+src/chrome/common/ipc_channel_win.cc, line 332
+[Child*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1551090976699	geckodriver	INFO	geckodriver 0.18.0
+1551090976711	geckodriver	INFO	Listening on 127.0.0.1:50380
+1551090979839	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1551090984227	Marionette	INFO	Listening on port 50394
+1551090985096	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 12480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 12480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 33860, Chrom[e_ChildThread] WChildA RNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 33828
+28, Chrome_Ch[CildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Child 30360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
