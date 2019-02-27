@@ -4,19 +4,23 @@
 import time
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+#from selenium.webdriver.remote import webdriver
 import os.path
 #from framework.logger import Logger
- 
-#创建一个logger实例
-#logger = Logger(logger="BasePage").getlog()
- 
+import base64
+import copy
+import warnings
+from contextlib import contextmanager
+
+
  
 class BasePage(object):
-	
 	#定义一个页面基类，让所有页面都继承这个类，封装一些常用的页面操作方法到这个类
-
 	def __init__(self):
 		self.driver = webdriver.Firefox()
+		self.driver.implicitly_wait(10)
 
 	#打开url
 	def open_url(self,url):
@@ -110,6 +114,9 @@ class BasePage(object):
 	#等待
 	def d(self):
 		self.driver.switch_to.alert.accept()
+	#显性等待,直到找到元素并点击
+	def sh_wait(self,selector):
+		WebDriverWait(self.driver,20).until(lambda x:x.find_element_by_link_text(selector).click())
 	#获取当前页面URL
 	def get_url(self):
 		self.gurl=self.driver.current_url
@@ -126,6 +133,3 @@ class BasePage(object):
 	#获取页面cookie
 	def get_cookie(self):
 		self.cookies=self.driver.get
-
-
-
