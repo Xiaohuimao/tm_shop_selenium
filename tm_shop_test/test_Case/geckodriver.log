@@ -2020,3 +2020,60 @@ m/src/chrome/common/ipc_channel_win.cc, line 332
 1551266896363	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
 1551266900793	Marionette	INFO	Listening on port 51639
 1551266901633	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551344461784	geckodriver	INFO	geckodriver 0.18.0
+1551344461911	geckodriver	INFO	Listening on 127.0.0.1:50038
+1551344464896	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1551344468563	Marionette	INFO	Listening on port 50049
+1551344469042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551349840074	geckodriver	INFO	geckodriver 0.18.0
+1551349840085	geckodriver	INFO	Listening on 127.0.0.1:55682
+1551349843118	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1551349847353	Marionette	INFO	Listening on port 55695
+1551349848388	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 31452,1551350677476	geckodriver	INFO	geckodriver 0.18.0
+1551350677485	geckodriver	INFO	Listening on 127.0.0.1:56979
+1551350680571	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1551350683256	Marionette	INFO	Listening on port 56992
+1551350683714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551352351527	geckodriver	INFO	geckodriver 0.18.0
+1551352351536	geckodriver	INFO	Listening on 127.0.0.1:59219
+1551352354653	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1551352357387	Marionette	INFO	Listening on port 59230
+1551352357793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551352406056	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1551352929940	geckodriver	INFO	geckodriver 0.18.0
+1551352929949	geckodriver	INFO	Listening on 127.0.0.1:60417
+1551352933064	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1551352935493	Marionette	INFO	Listening on port 60428
+1551352936218	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 42308, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 298
+[Parent 42308, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 298
+1551420630119	geckodriver	INFO	geckodriver 0.18.0
+1551420630148	geckodriver	INFO	Listening on 127.0.0.1:63188
+1551420633261	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1551420637776	Marionette	INFO	Listening on port 63198
+1551420638668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551691685925	geckodriver	INFO	geckodriver 0.18.0
+1551691685955	geckodriver	INFO	Listening on 127.0.0.1:64252
+1551695874658	geckodriver	INFO	geckodriver 0.18.0
+1551695874668	geckodriver	INFO	Listening on 127.0.0.1:49652
+1551695877753	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1551695889115	Marionette	INFO	Listening on port 49662
+1551695889461	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1551695925437	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1551696935190	geckodriver	INFO	geckodriver 0.18.0
+1551696935200	geckodriver	INFO	Listening on 127.0.0.1:50316
+1551696938331	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1551696941141	Marionette	INFO	Listening on port 50324
+1551696941471	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18948, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 298
+[Parent 18948, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 298
+1551696982466	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1551755435228	geckodriver	INFO	geckodriver 0.18.0
+1551755435365	geckodriver	INFO	Listening on 127.0.0.1:53687
+1551755438526	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1551755442087	Marionette	INFO	Listening on port 53695
+1551755442230	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17880, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 298
+[Parent 17880, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 298

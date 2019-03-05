@@ -3,17 +3,8 @@
 # coding=utf-8
 import time
 from selenium import webdriver
-from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-#from selenium.webdriver.remote import webdriver
 import os.path
-#from framework.logger import Logger
-import base64
-import copy
-import warnings
-from contextlib import contextmanager
-
 
  
 class BasePage(object):
