@@ -29,9 +29,9 @@ class To_mysql():
         self.cursor=self.db.cursor()
 #使用execute()方法执行SQL查询
 #查询组件金额
-    def select_zj_price(self):
+    def select_zj_price(self,spid):
         self.db.ping(reconnect=True)
-        self.cursor.execute("select price from tm_spec_goods_price_approval where goods_approval_id='335'")
+        self.cursor.execute("select price from tm_spec_goods_price where goods_id="+spid)
         self.db.commit()
         self.zj_price=self.cursor.fetchone()
         self.db.close()
@@ -69,7 +69,13 @@ class To_mysql():
         self.db.close()
         return self.store_fcprice[0]
 #查询商家等级
-    #def select_store_
+    def select_store_level(self):
+        self.db.ping(reconnect=True)
+        self.cursor.execute("select level from tm_users where mobile=17623250366")
+        self.db.commit()
+        self.store_level=self.cursor.fetchone()
+        self.db.close()
+        return self.store_level[0]
 #关闭游标
     def close_cursor(self):
         self.cursor.close()
@@ -78,8 +84,4 @@ class To_mysql():
         self.db.close()
 if __name__=="__main__":
     my=To_mysql()
-    print(my.select_zj_price())
-    print(my.select_store_allprice())
-    print(my.select_store_fcprice())
-    print(my.select_user_djprice())
-    print(my.select_user_kyprice())
+    print(my.select_store_level())

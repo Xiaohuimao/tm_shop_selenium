@@ -127,3 +127,35 @@
 1551775376125	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
 1551775378580	Marionette	INFO	Listening on port 53531
 1551775379261	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551776818863	geckodriver	INFO	geckodriver 0.18.0
+1551776818873	geckodriver	INFO	Listening on 127.0.0.1:54641
+1551776822030	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1551776824850	Marionette	INFO	Listening on port 54651
+1551776825168	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1551776875751	geckodriver	INFO	geckodriver 0.18.0
+1551776875761	geckodriver	INFO	Listening on 127.0.0.1:54875
+1551776878849	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1551776881245	Marionette	INFO	Listening on port 54883
+1551776881994	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1552197692091	geckodriver	INFO	geckodriver 0.18.0
+1552197692223	geckodriver	INFO	Listening on 127.0.0.1:63406
+1552197695408	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1552197700138	Marionette	INFO	Listening on port 63415
+1552197700716	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: https://shop.360tianma.com/public/static/js/jquery.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+[Parent 27820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+d/bu
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+i[ld/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 27820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

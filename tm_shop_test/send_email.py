@@ -3,24 +3,16 @@
 import smtplib
 import os,time
 from email.mime.text import MIMEText
-from email.utils import parseaddr,formataddr
 from email.header import Header
 from email.mime.multipart import MIMEMultipart
 from email.mime.application import MIMEApplication
-from email.utils import parseaddr, formataddr
 
 #自动发送邮件
 def send_email(new_report):
-    #def _format_addr(s):
-     #   name, addr = parseaddr(s)
-     #   return formataddr((Header(name, 'utf-8').encode(), addr))
-    #读取测试报告中的内容作为邮件的内容
-    #with open(new_report,'r',encoding='utf8') as f:
-     #   mail_body = f.read()
     #发件人地址
     from_addr = '1715863457@qq.com'
     #收件人地址
-    to_addr = 'm0926xf@126.com'
+    to_addr = 'm0926xf@126.com,mengxuefeng@360tianma.com'
     #发送邮箱的服务器地址
     mail_server = 'smtp.qq.com'
     #邮件的标题
