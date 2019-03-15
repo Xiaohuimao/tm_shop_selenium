@@ -159,3 +159,14 @@ i[ld/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
 [C[GPU 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1552625502527	geckodriver	INFO	geckodriver 0.18.0
+1552625502667	geckodriver	INFO	Listening on 127.0.0.1:56551
+1552625505464	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1552625509135	Marionette	INFO	Listening on port 56559
+1552625509732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552625964169	geckodriver	INFO	geckodriver 0.18.0
+1552625964177	geckodriver	INFO	Listening on 127.0.0.1:57106
+1552625967292	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1552625969895	Marionette	INFO	Listening on port 57118
+1552625970446	Marionette	WARN	TLS certificate errors will be ignored for this session
+[

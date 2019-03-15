@@ -51,6 +51,9 @@ def run(test_suit):
     #report_name=now+"report.html"
     result = BeautifulReport(test_suit)
     result.report(filename=report_name, description='天马商城自动化测试报告', log_path='report')
+    time.sleep(2)
+    new_report_addr=acquire_report_address(reportpath)
+    send_email(new_report_addr)
 
 if __name__=="__main__":
     '''
@@ -68,7 +71,3 @@ if __name__=="__main__":
     cases=add_case()
     for case in cases:
         run(case)
-    time.sleep(3)
-    new_report_addr=acquire_report_address(reportpath)
-    #print(new_report_addr)
-    send_email(new_report_addr)

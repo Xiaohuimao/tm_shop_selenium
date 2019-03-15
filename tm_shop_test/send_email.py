@@ -59,4 +59,4 @@ def acquire_report_address(reports_address):
 if __name__=="__main__":
     i=acquire_report_address('D:/job/tm_shop_selenium/tm_shop_test/report')
     #print(i)
-    send_email(i)
+    #send_email(i)
