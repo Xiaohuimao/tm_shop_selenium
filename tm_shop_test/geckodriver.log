@@ -169,4 +169,9 @@ i[ld/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
 1552625967292	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
 1552625969895	Marionette	INFO	Listening on port 57118
 1552625970446	Marionette	WARN	TLS certificate errors will be ignored for this session
-[
+[1552979038786	geckodriver	INFO	geckodriver 0.18.0
+1552979038807	geckodriver	INFO	Listening on 127.0.0.1:50809
+1552979041675	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1552979046097	Marionette	INFO	Listening on port 50820
+1552979046946	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332

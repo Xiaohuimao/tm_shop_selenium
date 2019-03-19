@@ -3,9 +3,9 @@
 import unittest
 from BeautifulReport import BeautifulReport
 import os
-from tomorrow import threads
+from tomorrow3 import threads
 import time
-import HTMLTestRunnerCN
+#import HTMLTestRunnerCN
 from send_email import send_email,acquire_report_address
 
 
