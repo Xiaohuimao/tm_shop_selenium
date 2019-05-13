@@ -53,17 +53,19 @@ class To_mysql():
         self.db.close()
         return self.user_djprice[0]
 #查询商家总金额
-    def select_store_allprice(self):
+    def select_store_allprice(self,spid):
         self.db.ping(reconnect=True)
-        self.cursor.execute("select store_money from tm_store where user_name=17623250366")
+        self.cursor.execute("select store_money from tm_store,tm_spec_goods_price where tm_spec_goods_price.store_id=tm_store.store_id and goods_id="+spid)
+        #self.cursor.execute("select store_money from tm_store where user_name=17623250366")
         self.db.commit()
         self.store_allprice=self.cursor.fetchone()
         self.db.close()
         return self.store_allprice[0]
 #查询商家扶持金
-    def select_store_fcprice(self):
+    def select_store_fcprice(self,spid):
         self.db.ping(reconnect=True)
-        self.cursor.execute("select store_money_support from tm_store where user_name=17623250366")
+        self.cursor.execute("select store_money_support from tm_store,tm_spec_goods_price where tm_spec_goods_price.store_id=tm_store.store_id and goods_id="+spid)
+        #self.cursor.execute("select store_money_support from tm_store where user_name=17623250366")
         self.db.commit()
         self.store_fcprice=self.cursor.fetchone()
         self.db.close()

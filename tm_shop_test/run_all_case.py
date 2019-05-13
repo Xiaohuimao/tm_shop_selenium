@@ -3,7 +3,7 @@
 import unittest
 from BeautifulReport import BeautifulReport
 import os
-from tomorrow3 import threads
+from tomorrow import threads
 import time
 #import HTMLTestRunnerCN
 from send_email import send_email,acquire_report_address
@@ -45,7 +45,7 @@ def add_case(case_path=casepath, rule="test*.py"):
 
 now=time.strftime("%Y-%m-%d %H_%M_%S")
 report_name=now+"report.html"
-@threads(3)
+#@threads(3)
 def run(test_suit):
     #now=time.strftime("%Y-%m-%d %H_%M_%S")
     #report_name=now+"report.html"

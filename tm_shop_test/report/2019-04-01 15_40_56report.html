@@ -7105,13 +7105,13 @@ body.skin-3 {
 <script src="https://cdn.bootcss.com/chosen/1.8.2/chosen.jquery.js"></script>
 <script type="text/javascript">
     var resultData = {
-    "testPass": 7,
+    "testPass": 6,
     "testResult": [
         {
             "className": "A_test_buy",
             "methodName": "test_a_login",
             "description": "登陆",
-            "spendTime": "8.11 s",
+            "spendTime": "39.2 s",
             "status": "成功",
             "log": [
                 ""
@@ -7121,7 +7121,7 @@ body.skin-3 {
             "className": "A_test_buy",
             "methodName": "test_b_to_shop",
             "description": "进入商城，搜索，点击APP类型,随机选择组件，返回组件id",
-            "spendTime": "14.7 s",
+            "spendTime": "34.3 s",
             "status": "成功",
             "log": [
                 ""
@@ -7131,7 +7131,7 @@ body.skin-3 {
             "className": "A_test_buy",
             "methodName": "test_c_buy",
             "description": "先获取用户购买前的可用余额和冻结金额，再购买组件",
-            "spendTime": "19.8 s",
+            "spendTime": "20.0 s",
             "status": "成功",
             "log": [
                 ""
@@ -7140,19 +7140,8 @@ body.skin-3 {
         {
             "className": "A_test_buy",
             "methodName": "test_d_yq_userprice",
-            "description": "查询商品价格，计算是否与可用余额减少一致",
-            "spendTime": "0.851 s",
-            "status": "成功",
-            "log": [
-                "159999.00 159999.00",
-                ""
-            ]
-        },
-        {
-            "className": "A_test_buy",
-            "methodName": "test_e_yq_djprice",
-            "description": "查询用户冻结金额增加是否与预期结果一致",
-            "spendTime": "0.808 s",
+            "description": "查询商品价格，计算是否与可用余额减少一致        用户冻结金额增加是否与预期结果一致",
+            "spendTime": "0.82 s",
             "status": "成功",
             "log": [
                 ""
@@ -7160,9 +7149,9 @@ body.skin-3 {
         },
         {
             "className": "A_test_buy",
-            "methodName": "test_f_yh_userprice",
-            "description": "验证手动点击验收后，账户可用余额变化是否与预期结果一致",
-            "spendTime": "2.94 s",
+            "methodName": "test_e_yq_storeprice",
+            "description": "查询购后商家金额，验证是否与售前一致",
+            "spendTime": "1.15 s",
             "status": "成功",
             "log": [
                 ""
@@ -7170,20 +7159,34 @@ body.skin-3 {
         },
         {
             "className": "A_test_buy",
-            "methodName": "test_g_yh_jdprice",
-            "description": "验证手动点击验收后，账户冻结金额是否预期结果一致",
-            "spendTime": "0.935 s",
+            "methodName": "test_g_yh_userprice",
+            "description": "验证手动点击验收后，用户可用余额、冻结金额变化是否与预期结果一致",
+            "spendTime": "3.96 s",
             "status": "成功",
             "log": [
                 ""
+            ]
+        },
+        {
+            "className": "A_test_buy",
+            "methodName": "test_h_yh_storeprice",
+            "description": "验证手动点击验收后，商家可用余额、扶持金、可提现金额是否与预期一致",
+            "spendTime": "0.00599 s",
+            "status": "失败",
+            "log": [
+                "",
+                "Traceback (most recent call last):\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py\", line 59, in testPartExecutor\n    yield\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py\", line 601, in run\n    testMethod()\n",
+                "TypeError: test_h_yh_storeprice() missing 1 required positional argument: 'spid'\n"
             ]
         }
     ],
     "testName": "天马商城自动化测试报告",
     "testAll": 7,
-    "testFail": 0,
-    "beginTime": "2019-03-15 12:59:23",
-    "totalTime": "63s",
+    "testFail": 1,
+    "beginTime": "2019-04-01 15:40:57",
+    "totalTime": "128s",
     "testSkip": 0,
     "testError": 0
 };

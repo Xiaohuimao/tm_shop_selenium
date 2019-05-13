@@ -7105,30 +7105,30 @@ body.skin-3 {
 <script src="https://cdn.bootcss.com/chosen/1.8.2/chosen.jquery.js"></script>
 <script type="text/javascript">
     var resultData = {
-    "testPass": 7,
+    "testPass": 5,
     "testResult": [
         {
-            "className": "Test",
+            "className": "A_test_buy",
             "methodName": "test_a_login",
             "description": "登陆",
-            "spendTime": "11.4 s",
+            "spendTime": "12.4 s",
             "status": "成功",
             "log": [
                 ""
             ]
         },
         {
-            "className": "Test",
+            "className": "A_test_buy",
             "methodName": "test_b_to_shop",
-            "description": "进入商城，搜索，选择组件",
-            "spendTime": "13.2 s",
+            "description": "进入商城，搜索，点击APP类型,随机选择组件，返回组件id",
+            "spendTime": "37.0 s",
             "status": "成功",
             "log": [
                 ""
             ]
         },
         {
-            "className": "Test",
+            "className": "A_test_buy",
             "methodName": "test_c_buy",
             "description": "先获取用户购买前的可用余额和冻结金额，再购买组件",
             "spendTime": "19.9 s",
@@ -7138,51 +7138,62 @@ body.skin-3 {
             ]
         },
         {
-            "className": "Test",
+            "className": "A_test_buy",
             "methodName": "test_d_yq_userprice",
-            "description": "查询商品价格，计算是否与可用余额减少一致",
-            "spendTime": "1.22 s",
+            "description": "查询商品价格，计算是否与可用余额减少一致        用户冻结金额增加是否与预期结果一致",
+            "spendTime": "0.659 s",
             "status": "成功",
             "log": [
                 ""
             ]
         },
         {
-            "className": "Test",
-            "methodName": "test_e_yq_djprice",
-            "description": "查询用户冻结金额增加是否与预期结果一致",
-            "spendTime": "1.24 s",
+            "className": "A_test_buy",
+            "methodName": "test_e_yq_storeprice",
+            "description": "查询购后商家金额，验证是否与售前一致",
+            "spendTime": "0.634 s",
             "status": "成功",
             "log": [
                 ""
             ]
         },
         {
-            "className": "Test",
-            "methodName": "test_f_yh_userprice",
-            "description": "验证手动点击验收后，账户可用余额变化是否与预期结果一致",
-            "spendTime": "4.12 s",
-            "status": "成功",
+            "className": "A_test_buy",
+            "methodName": "test_g_yh_userprice",
+            "description": "验证手动点击验收后，用户可用余额、冻结金额变化是否与预期结果一致",
+            "spendTime": "3.51 s",
+            "status": "失败",
             "log": [
-                ""
+                "",
+                "Traceback (most recent call last):\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py\", line 59, in testPartExecutor\n    yield\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py\", line 601, in run\n    testMethod()\n",
+                "  File \"D:\\job\\tm_shop_selenium\\tm_shop_test\\test_Case\\testCase.py\", line 83, in test_g_yh_userprice\n    self.assertEqual(self.ysh_djprice, self.dj_pz)\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py\", line 821, in assertEqual\n    assertion_func(first, second, msg=msg)\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py\", line 814, in _baseAssertEqual\n    raise self.failureException(msg)\n",
+                "AssertionError: Decimal('125241.10') != Decimal('107041.10')\n"
             ]
         },
         {
-            "className": "Test",
-            "methodName": "test_g_yh_jdprice",
-            "description": "验证手动点击验收后，账户冻结金额是否预期结果一致",
-            "spendTime": "0.946 s",
-            "status": "成功",
+            "className": "A_test_buy",
+            "methodName": "test_h_yh_storeprice",
+            "description": "验证手动点击验收后，商家可用余额、扶持金、可提现金额是否与预期一致",
+            "spendTime": "0.00199 s",
+            "status": "失败",
             "log": [
-                ""
+                "",
+                "Traceback (most recent call last):\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py\", line 59, in testPartExecutor\n    yield\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py\", line 601, in run\n    testMethod()\n",
+                "TypeError: test_h_yh_storeprice() missing 1 required positional argument: 'spid'\n"
             ]
         }
     ],
     "testName": "天马商城自动化测试报告",
     "testAll": 7,
-    "testFail": 0,
-    "beginTime": "2019-03-05 16:26:21",
-    "totalTime": "67s",
+    "testFail": 2,
+    "beginTime": "2019-04-02 12:03:03",
+    "totalTime": "95s",
     "testSkip": 0,
     "testError": 0
 };

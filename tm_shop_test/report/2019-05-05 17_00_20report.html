@@ -7105,84 +7105,128 @@ body.skin-3 {
 <script src="https://cdn.bootcss.com/chosen/1.8.2/chosen.jquery.js"></script>
 <script type="text/javascript">
     var resultData = {
-    "testPass": 7,
+    "testPass": 1,
     "testResult": [
         {
-            "className": "Test",
+            "className": "A_test_buy",
             "methodName": "test_a_login",
             "description": "登陆",
-            "spendTime": "5.98 s",
+            "spendTime": "7.42 s",
             "status": "成功",
             "log": [
                 ""
             ]
         },
         {
-            "className": "Test",
+            "className": "A_test_buy",
             "methodName": "test_b_to_shop",
-            "description": "进入商城，搜索，选择组件",
-            "spendTime": "13.0 s",
-            "status": "成功",
+            "description": "进入商城，搜索，点击APP类型,随机选择组件，返回组件id",
+            "spendTime": "10.0 s",
+            "status": "失败",
             "log": [
-                ""
+                "",
+                "Traceback (most recent call last):\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py\", line 59, in testPartExecutor\n    yield\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py\", line 601, in run\n    testMethod()\n",
+                "  File \"D:\\job\\tm_shop_selenium\\tm_shop_test\\test_Case\\test_1_shopCase.py\", line 23, in test_b_to_shop\n    self.brower.lt_click('商城')\n",
+                "  File \"D:\\job\\tm_shop_selenium\\tm_shop_test\\test_Case\\base_page.py\", line 98, in lt_click\n    el=self.driver.find_element_by_link_text(selector)\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py\", line 428, in find_element_by_link_text\n    return self.find_element(by=By.LINK_TEXT, value=link_text)\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py\", line 978, in find_element\n    'value': value})['value']\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py\", line 321, in execute\n    self.error_handler.check_response(response)\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\selenium\\webdriver\\remote\\errorhandler.py\", line 242, in check_response\n    raise exception_class(message, screen, stacktrace)\n",
+                "selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: 商城\n\n"
             ]
         },
         {
-            "className": "Test",
+            "className": "A_test_buy",
             "methodName": "test_c_buy",
             "description": "先获取用户购买前的可用余额和冻结金额，再购买组件",
-            "spendTime": "19.0 s",
-            "status": "成功",
+            "spendTime": "13.0 s",
+            "status": "失败",
             "log": [
-                ""
+                "",
+                "Traceback (most recent call last):\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py\", line 59, in testPartExecutor\n    yield\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py\", line 601, in run\n    testMethod()\n",
+                "  File \"D:\\job\\tm_shop_selenium\\tm_shop_test\\test_Case\\test_1_shopCase.py\", line 46, in test_c_buy\n    self.brower.cn_click('paybybill')\n",
+                "  File \"D:\\job\\tm_shop_selenium\\tm_shop_test\\test_Case\\base_page.py\", line 110, in cn_click\n    el=self.driver.find_element_by_class_name(selector)\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py\", line 564, in find_element_by_class_name\n    return self.find_element(by=By.CLASS_NAME, value=name)\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py\", line 978, in find_element\n    'value': value})['value']\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py\", line 321, in execute\n    self.error_handler.check_response(response)\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\selenium\\webdriver\\remote\\errorhandler.py\", line 242, in check_response\n    raise exception_class(message, screen, stacktrace)\n",
+                "selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: .paybybill\n\n"
             ]
         },
         {
-            "className": "Test",
+            "className": "A_test_buy",
             "methodName": "test_d_yq_userprice",
-            "description": "查询商品价格，计算是否与可用余额减少一致",
-            "spendTime": "1.2 s",
-            "status": "成功",
+            "description": "查询商品价格，计算是否与可用余额减少一致        用户冻结金额增加是否与预期结果一致",
+            "spendTime": "0.801 s",
+            "status": "失败",
             "log": [
-                ""
+                "",
+                "Traceback (most recent call last):\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py\", line 59, in testPartExecutor\n    yield\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py\", line 601, in run\n    testMethod()\n",
+                "  File \"D:\\job\\tm_shop_selenium\\tm_shop_test\\test_Case\\test_1_shopCase.py\", line 62, in test_d_yq_userprice\n    self.dj_pz = self.gq_userdjprice + zj_money\n",
+                "NameError: name 'zj_money' is not defined\n"
             ]
         },
         {
-            "className": "Test",
-            "methodName": "test_e_yq_djprice",
-            "description": "查询用户冻结金额增加是否与预期结果一致",
-            "spendTime": "1.18 s",
-            "status": "成功",
+            "className": "A_test_buy",
+            "methodName": "test_e_yq_storeprice",
+            "description": "查询购后商家金额，验证是否与售前一致",
+            "spendTime": "0.000995 s",
+            "status": "失败",
             "log": [
-                ""
+                "",
+                "Traceback (most recent call last):\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py\", line 59, in testPartExecutor\n    yield\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py\", line 601, in run\n    testMethod()\n",
+                "  File \"D:\\job\\tm_shop_selenium\\tm_shop_test\\test_Case\\test_1_shopCase.py\", line 67, in test_e_yq_storeprice\n    self.gh_storeallprice = self.db.select_store_allprice(spid=spids[0])\n",
+                "NameError: name 'spids' is not defined\n"
             ]
         },
         {
-            "className": "Test",
-            "methodName": "test_f_yh_userprice",
-            "description": "验证手动点击验收后，账户可用余额变化是否与预期结果一致",
-            "spendTime": "3.32 s",
-            "status": "成功",
+            "className": "A_test_buy",
+            "methodName": "test_g_yh_userprice",
+            "description": "验证手动点击验收后，用户可用余额、冻结金额变化是否与预期结果一致",
+            "spendTime": "12.0 s",
+            "status": "失败",
             "log": [
-                ""
+                "",
+                "Traceback (most recent call last):\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py\", line 59, in testPartExecutor\n    yield\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py\", line 601, in run\n    testMethod()\n",
+                "  File \"D:\\job\\tm_shop_selenium\\tm_shop_test\\test_Case\\test_1_shopCase.py\", line 76, in test_g_yh_userprice\n    self.brower.xp_click('/html/body/div[3]/div/div[2]/div[2]/div[1]/div[4]/table[1]/tbody/tr[1]/td/div[1]/div/a')\n",
+                "  File \"D:\\job\\tm_shop_selenium\\tm_shop_test\\test_Case\\base_page.py\", line 81, in xp_click\n    el = self.driver.find_element_by_xpath(selector)\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py\", line 394, in find_element_by_xpath\n    return self.find_element(by=By.XPATH, value=xpath)\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py\", line 978, in find_element\n    'value': value})['value']\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py\", line 321, in execute\n    self.error_handler.check_response(response)\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\selenium\\webdriver\\remote\\errorhandler.py\", line 242, in check_response\n    raise exception_class(message, screen, stacktrace)\n",
+                "selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: /html/body/div[3]/div/div[2]/div[2]/div[1]/div[4]/table[1]/tbody/tr[1]/td/div[1]/div/a\n\n"
             ]
         },
         {
-            "className": "Test",
-            "methodName": "test_g_yh_jdprice",
-            "description": "验证手动点击验收后，账户冻结金额是否预期结果一致",
-            "spendTime": "1.03 s",
-            "status": "成功",
+            "className": "A_test_buy",
+            "methodName": "test_h_yh_storeprice",
+            "description": "验证手动点击验收后，商家可用余额、扶持金、可提现金额是否与预期一致",
+            "spendTime": "0.002 s",
+            "status": "失败",
             "log": [
-                ""
+                "",
+                "Traceback (most recent call last):\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py\", line 59, in testPartExecutor\n    yield\n",
+                "  File \"C:\\Users\\meng\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py\", line 601, in run\n    testMethod()\n",
+                "TypeError: test_h_yh_storeprice() missing 1 required positional argument: 'spid'\n"
             ]
         }
     ],
     "testName": "天马商城自动化测试报告",
     "testAll": 7,
-    "testFail": 0,
-    "beginTime": "2019-03-05 17:07:55",
-    "totalTime": "56s",
+    "testFail": 6,
+    "beginTime": "2019-05-05 17:00:20",
+    "totalTime": "84s",
     "testSkip": 0,
     "testError": 0
 };

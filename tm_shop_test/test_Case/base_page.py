@@ -63,6 +63,16 @@ class BasePage(object):
 		el=self.driver.find_element_by_name(selector)
 		el.clear()
 		el.send_keys(text)
+	#使用id定位原素，输入
+	def id_type(self,selector,text):
+		el=self.driver.find_element_by_id(selector)
+		el.clear()
+		el.send_keys(text)
+	#使用css定位元素，输入
+	def css_type(self,selector,text):
+		el=self.driver.find_element_by_css_selector(selector)
+		el.clear()
+		el.send_keys(text)
 
 	def clear(self, selector):
 		el=self.driver.find_element_by_xpath(selector)
@@ -75,6 +85,23 @@ class BasePage(object):
 	def xp_click(self, selector):
 		el = self.driver.find_element_by_xpath(selector)
 		el.click()
+
+	#使用Xpath定位，并打印文本（用于layer弹窗）
+	def xp_get_text(self,selector):
+		el=self.driver.find_element_by_xpath(selector).get_attribute('textContent')
+		return el
+	#使用xpath定位，并打印文本（用于div弹窗）
+	def xp_get_divtest(self,selector):
+		el=self.driver.find_element_by_xpath(selector).text
+		return el
+	#使用css定位，并打印文本（用于div弹窗）
+	def css_get_divtest(self,selector):
+		el=self.driver.find_element_by_css_selector(selector).text
+		return el
+	#使用css定位，并打印文本
+	def css_get_text(self,selecter):
+		el=self.driver.find_element_by_css_selector(selecter).get_attribute('textContent')
+		return el
 	#使用link_text定位，点击元素
 	def lt_click(self,selector):
 		el=self.driver.find_element_by_link_text(selector)
@@ -95,6 +122,13 @@ class BasePage(object):
 	def css_click(self,selector):
 		el=self.driver.find_element_by_css_selector(selector)
 		el.click()
+	#定位iframe,进入iframe
+	def to_iframe(self,selector):
+		iframe=self.driver.find_element_by_xpath(selector)
+		self.driver.switch_to.frame(iframe)
+	#退出iframe(回到主页面)
+	def pk_iframe(self):
+		self.driver.switch_to_default_content()
 	# 或者网页标题
 	def get_page_title(self):
 		return self.driver.title
@@ -105,6 +139,9 @@ class BasePage(object):
 	#等待
 	def d(self):
 		self.driver.switch_to.alert.accept()
+	#隐性等待
+	def yx_wait(self,m):
+		self.driver.implicitly_wait(m)
 	#显性等待,直到找到元素并点击
 	def sh_wait(self,selector):
 		WebDriverWait(self.driver,20).until(lambda x:x.find_element_by_link_text(selector).click())
@@ -116,6 +153,15 @@ class BasePage(object):
 	def get_ck(self):
 		self.cookies=self.driver.get_cookies()
 		return self.cookies
+	#添加cookie
+	def add_ck(self,ck):
+		self.driver.add_cookie(ck)
+	#向lacalstorage注入token值
+	def add_localSt(self):
+		self.driver.execute_script('localStorage.setItem("token", "2A2F0BA8C124851BF641BE481C9CF9FA");')
+	#清除原页面cookie
+	def del_ck(self):
+		self.driver.delete_all_cookies()
 	@staticmethod
 	def setUpClass(self):
 		pass
