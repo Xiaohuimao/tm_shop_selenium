@@ -122,10 +122,14 @@ class BasePage(object):
 	def css_click(self,selector):
 		el=self.driver.find_element_by_css_selector(selector)
 		el.click()
-	#定位iframe,进入iframe
+	#使用xpath定位iframe,进入iframe
 	def to_iframe(self,selector):
 		iframe=self.driver.find_element_by_xpath(selector)
 		self.driver.switch_to.frame(iframe)
+	#使用css定位iframe，进入iframe
+	def to_css_iframe(self,selector):
+		iframe=self.driver.find_element_by_css_selector(selector)
+		self.driver.switch_to_frame(iframe)
 	#退出iframe(回到主页面)
 	def pk_iframe(self):
 		self.driver.switch_to_default_content()

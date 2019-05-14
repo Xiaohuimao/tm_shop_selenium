@@ -252,3 +252,37 @@ pc_channel_win.cc, line 332
 
 1557056945006	geckodriver	INFO	geckodriver 0.18.0
 1557056945016	geckodriver	INFO	Listening on 127.0.0.1:57394
+1557749377603	geckodriver	INFO	geckodriver 0.18.0
+1557749377613	geckodriver	INFO	Listening on 127.0.0.1:52652
+1557749380749	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1557749385072	Marionette	INFO	Listening on port 52663
+1557749386008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://stabletm.360tianma.com/application/personal/html/lib/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://stabletm.360tianma.com/application/personal/html/static/h-ui/js/H-ui.min.js, line 11: unreachable code after return statement
+JavaScript warning: http://stabletm.360tianma.com/application/personal/html/lib/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://stabletm.360tianma.com/application/personal/html/static/h-ui/js/H-ui.min.js, line 11: unreachable code after return statement
+JavaScript warning: http://stabletm.360tianma.com/application/personal/html/message-list.html, line 117: unreachable code after return statement
+JavaScript error: http://stabletm.360tianma.com/application/personal/html/message-list.html, line 128: TypeError: parent.checkToken is not a function
+JavaScript warning: http://stabletm.360tianma.com/application/personal/html/lib/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://stabletm.360tianma.com/application/personal/html/static/h-ui/js/H-ui.min.js, line 11: unreachable code after return statement
+JavaScript warning: http://stabletm.360tianma.com/application/personal/html/lib/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://stabletm.360tianma.com/application/personal/html/static/h-ui/js/H-ui.min.js, line 11: unreachable code after return statement
+JavaScript error: http://stabletm.360tianma.com/application/personal/html/lib/layui/layui.all.js, line 2: TypeError: o is null
+JavaScript warning: http://stabletm.360tianma.com/application/personal/html/message-list.html, line 117: unreachable code after return statement
+JavaScript warning: http://stabletm.360tianma.com/application/personal/html/message-list.html, line 117: unreachable code after return statement
+JavaScript warning: http://stabletm.360tianma.com/application/personal/html/message-list.html, line 117: unreachable code after return statement
+JavaScript warning: http://stabletm.360tianma.com/application/personal/html/message-list.html, line 117: unreachable code after return statement
+JavaScript error: http://stabletm.360tianma.com/application/personal/html/lib/wangEditor.min.js, line 2: TypeError: e is null
+JavaScript error: http://stabletm.360tianma.com/application/personal/html/lib/wangEditor.min.js, line 2: TypeError: e is null
+JavaScript warning: http://stabletm.360tianma.com/application/personal/html/lib/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://stabletm.360tianma.com/application/personal/html/static/h-ui/js/H-ui.min.js, line 11: unreachable code after return statement
+JavaScript warning: http://stabletm.360tianma.com/application/personal/html/lib/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://stabletm.360tianma.com/application/personal/html/static/h-ui/js/H-ui.min.js, line 11: unreachable code after return statement
+JavaScript warning: http://stabletm.360tianma.com/application/personal/html/lib/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://stabletm.360tianma.com/application/personal/html/static/h-ui/js/H-ui.min.js, line 11: unreachable code after return statement
+[Parent 53144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 24460, Chrome_Chi[Child 50488, Chrome_ChildTlhdrThread] WARNeING: pipe error: 109: file zad] WARNING: p:i/build/build/src/ipc/chrpe error: 10o9m:ium/src/chrome/common/ipc_channel_win.cc, line 332 
+file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[GPU 3
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

@@ -2,19 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c62e8afd-6f59-42aa-975d-3eeed985b99a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/2019-03-05 16_26_21report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/2019-03-05 16_42_52report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/2019-03-05 17_07_55report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/2019-03-15 12_51_41report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/2019-03-15 12_59_23report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/2019-03-19 15_03_57report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_Case/testCase.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/2019-03-19 17_39_11report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/2019-04-01 15_40_56report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/2019-04-02 12_03_02report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/2019-05-05 16_57_16report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/2019-05-05 17_00_20report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/static/animate.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/static/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/static/chosen.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/static/font-awesome.min.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/geckodriver.log" afterPath="$PROJECT_DIR$/geckodriver.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run_all_case.py" afterPath="$PROJECT_DIR$/run_all_case.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_Case/base_page.py" afterPath="$PROJECT_DIR$/test_Case/base_page.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_Case/geckodriver.log" afterPath="$PROJECT_DIR$/test_Case/geckodriver.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_Case/mysql_page.py" afterPath="$PROJECT_DIR$/test_Case/mysql_page.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_Case/test_1_personalCase.py" afterPath="$PROJECT_DIR$/test_Case/test_1_personalCase.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,22 +26,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="run_all_case.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="run_all_case.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/run_all_case.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="48" column="19" lean-forward="false" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+            <state relative-caret-position="38">
+              <caret line="8" column="56" lean-forward="true" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_1_personalCase.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="send_email.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/send_email.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="47" column="42" lean-forward="false" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_1_personalCase.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_Case/test_1_personalCase.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1164">
-              <caret line="313" column="0" lean-forward="true" selection-start-line="313" selection-start-column="0" selection-end-line="313" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="229">
+              <caret line="297" column="8" lean-forward="false" selection-start-line="297" selection-start-column="8" selection-end-line="297" selection-end-column="8" />
+              <folding>
+                <element signature="e#14227#14508#1" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,8 +61,8 @@
       <file leaf-file-name="base_page.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_Case/base_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="127" column="43" lean-forward="false" selection-start-line="127" selection-start-column="43" selection-end-line="127" selection-end-column="43" />
+            <state relative-caret-position="356">
+              <caret line="131" column="43" lean-forward="true" selection-start-line="131" selection-start-column="43" selection-end-line="131" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -68,6 +81,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>WebDriver</find>
+      <find>self.brower.yx_wait(10)</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -99,15 +113,15 @@
         <option value="$PROJECT_DIR$/test_Case/test.py" />
         <option value="$PROJECT_DIR$/test_Case/testCase_personal.py" />
         <option value="$PROJECT_DIR$/run_all_case.py" />
-        <option value="$PROJECT_DIR$/test_Case/base_page.py" />
         <option value="$PROJECT_DIR$/test_Case/test_2_personalCase.py" />
+        <option value="$PROJECT_DIR$/test_Case/base_page.py" />
         <option value="$PROJECT_DIR$/test_Case/test_1_personalCase.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1759" />
-    <option name="y" value="-32" />
+    <option name="x" value="-1904" />
+    <option name="y" value="-49" />
     <option name="width" value="1273" />
     <option name="height" value="847" />
   </component>
@@ -128,6 +142,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,13 +158,17 @@
             <path>
               <item name="tm_shop_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="tm_shop_test" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tm_shop_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tm_shop_test" type="462c0819:PsiDirectoryNode" />
               <item name="test_Case" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_2_personalCase.py">
+  <component name="RunManager" selected="Python.run_all_case">
     <configuration name="Unittests for test_2_personalCase.A_test_personal.test_7_delpush" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,20 +203,6 @@
       <option name="_new_target" value="&quot;test_2_personalCase.A_test_personal.test_7_delpush&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for test_2_personalCase.A_test_personal.test_9_jftz" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_Case" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="tm_test" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_2_personalCase.A_test_personal.test_9_jftz&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
     <configuration name="Unittests in testCase_personal.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,6 +215,20 @@
       <module name="tm_test" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/test_Case/testCase_personal.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_1_personalCase.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_Case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tm_test" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_Case/test_1_personalCase.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration name="Unittests in test_2_personalCase.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -246,17 +265,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.run_all_case" />
       <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in testCase_personal.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_2_personalCase.A_test_personal.test_9_jftz" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_2_personalCase.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for test_2_personalCase.A_test_personal.test_7_delpush" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_2_personalCase.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_2_personalCase.A_test_personal.test_7_delpush" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_1_personalCase.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_2_personalCase.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in testCase_personal.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_2_personalCase.A_test_personal.test_7_delpush" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_2_personalCase.A_test_personal.test_9_jftz" />
-        <item index="4" class="java.lang.String" itemvalue="Python.run_all_case" />
+        <item index="0" class="java.lang.String" itemvalue="Python.run_all_case" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_1_personalCase.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_2_personalCase.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in testCase_personal.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for test_2_personalCase.A_test_personal.test_7_delpush" />
       </list>
     </recent_temporary>
   </component>
@@ -277,46 +296,47 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_2_personalCase_py - 2019.05.13 at 16h 37m 19s.xml">
-      <configuration name="Unittests in test_2_personalCase.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_1_personalCase_py - 2019.05.14 at 11h 00m 52s.xml">
+      <configuration name="Unittests in test_1_personalCase.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_2_personalCase_py - 2019.05.13 at 17h 11m 39s.xml">
-      <configuration name="Unittests in test_2_personalCase.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_1_personalCase_py - 2019.05.14 at 11h 13m 40s.xml">
+      <configuration name="Unittests in test_1_personalCase.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_2_personalCase_py - 2019.05.13 at 17h 13m 29s.xml">
-      <configuration name="Unittests in test_2_personalCase.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_1_personalCase_py - 2019.05.14 at 11h 16m 20s.xml">
+      <configuration name="Unittests in test_1_personalCase.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_2_personalCase_py - 2019.05.13 at 17h 18m 00s.xml">
-      <configuration name="Unittests in test_2_personalCase.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_1_personalCase_py - 2019.05.14 at 19h 05m 29s.xml">
+      <configuration name="Unittests in test_1_personalCase.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_2_personalCase_py - 2019.05.13 at 17h 19m 47s.xml">
-      <configuration name="Unittests in test_2_personalCase.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_1_personalCase_py - 2019.05.14 at 19h 17m 51s.xml">
+      <configuration name="Unittests in test_1_personalCase.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_2_personalCase_py - 2019.05.13 at 17h 24m 11s.xml">
-      <configuration name="Unittests in test_2_personalCase.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_1_personalCase_py - 2019.05.14 at 19h 20m 25s.xml">
+      <configuration name="Unittests in test_1_personalCase.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_2_personalCase_py - 2019.05.13 at 17h 57m 49s.xml">
-      <configuration name="Unittests in test_2_personalCase.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_1_personalCase_py - 2019.05.14 at 19h 32m 47s.xml">
+      <configuration name="Unittests in test_1_personalCase.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_2_personalCase_py - 2019.05.13 at 17h 59m 47s.xml">
-      <configuration name="Unittests in test_2_personalCase.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_1_personalCase_py - 2019.05.14 at 19h 35m 59s.xml">
+      <configuration name="Unittests in test_1_personalCase.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_2_personalCase_py - 2019.05.13 at 18h 12m 46s.xml">
-      <configuration name="Unittests in test_2_personalCase.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_1_personalCase_py - 2019.05.14 at 19h 48m 38s.xml">
+      <configuration name="Unittests in test_1_personalCase.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_2_personalCase_py - 2019.05.13 at 18h 15m 19s.xml">
-      <configuration name="Unittests in test_2_personalCase.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_1_personalCase_py - 2019.05.14 at 19h 51m 19s.xml">
+      <configuration name="Unittests in test_1_personalCase.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1759" y="-32" width="1273" height="847" extended-state="0" />
+    <frame x="-1904" y="-49" width="1273" height="847" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32811213" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33965376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.319398" sideWeight="0.5059666" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3140845" sideWeight="0.49403343" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3140845" sideWeight="0.49403343" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -348,13 +368,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test_Case/base_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1520">
-          <caret line="80" column="18" lean-forward="true" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_Case/testCase.py" />
     <entry file="file://$PROJECT_DIR$/test_Case/driver.py" />
     <entry file="file://$PROJECT_DIR$/test_Case/base_page.py">
@@ -508,13 +521,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/send_email.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../BeautifulReport/BeautifulReport.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6099">
@@ -576,34 +582,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_Case/test_2_personalCase.py">
+    <entry file="file://$PROJECT_DIR$/test_Case/test_2_personalCase.py" />
+    <entry file="file://$PROJECT_DIR$/report/2019-05-13 20_09_36report.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="205" column="21" lean-forward="false" selection-start-line="205" selection-start-column="21" selection-end-line="205" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_Case/base_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="127" column="43" lean-forward="false" selection-start-line="127" selection-start-column="43" selection-end-line="127" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run_all_case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="48" column="19" lean-forward="false" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        <state relative-caret-position="356">
+          <caret line="131" column="43" lean-forward="true" selection-start-line="131" selection-start-column="43" selection-end-line="131" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_Case/test_1_personalCase.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1164">
-          <caret line="313" column="0" lean-forward="true" selection-start-line="313" selection-start-column="0" selection-end-line="313" selection-end-column="0" />
+        <state relative-caret-position="229">
+          <caret line="297" column="8" lean-forward="false" selection-start-line="297" selection-start-column="8" selection-end-line="297" selection-end-column="8" />
+          <folding>
+            <element signature="e#14227#14508#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send_email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="47" column="42" lean-forward="false" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_all_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="8" column="56" lean-forward="true" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
           <folding />
         </state>
       </provider>
