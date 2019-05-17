@@ -95,7 +95,7 @@ class BasePage(object):
 		el=self.driver.find_element_by_xpath(selector).text
 		return el
 	#使用css定位，并打印文本（用于div弹窗）
-	def css_get_divtest(self,selector):
+	def css_get_divtext(self,selector):
 		el=self.driver.find_element_by_css_selector(selector).text
 		return el
 	#使用css定位，并打印文本
@@ -133,6 +133,13 @@ class BasePage(object):
 	#退出iframe(回到主页面)
 	def pk_iframe(self):
 		self.driver.switch_to_default_content()
+	#css判断页面元素是否存在，不存在返回False，存在返回Ture
+	def is_element_exist(self,selecter):
+		s=self.driver.find_elements_by_xpath(selecter)
+		if len(s) == 0:
+			return False
+		else:
+			return True
 	# 或者网页标题
 	def get_page_title(self):
 		return self.driver.title
@@ -166,6 +173,8 @@ class BasePage(object):
 	#清除原页面cookie
 	def del_ck(self):
 		self.driver.delete_all_cookies()
+	def del_readonly(self):
+		self.driver.execute_script()
 	@staticmethod
 	def setUpClass(self):
 		pass

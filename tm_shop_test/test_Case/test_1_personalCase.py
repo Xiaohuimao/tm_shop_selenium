@@ -48,9 +48,10 @@ class A_test_personal(unittest.TestCase):
         time.sleep(2)
         self.brower.css_click('.laydate-btns-now')
         time.sleep(1)
-        self.brower.xp_click('/html/body/div/div/div/button')
-        #self.text=self.brower.xp_get_divtest('/html/body/div[4]/div[2]')
-        self.text=self.brower.css_get_text('.layui-layer-content.layui-layer-padding')
+        self.brower.css_click('.btn.btn-primary.submit')
+        time.sleep(1)
+        self.text=self.brower.css_get_divtext('.layui-layer-content.layui-layer-padding')
+        #self.text=self.brower.css_get_text('.layui-layer-content.layui-layer-padding')
         self.assertEqual(self.text,'保存成功')
         time.sleep(3)
         self.brower.css_click('.layui-layer-btn0')
@@ -217,7 +218,7 @@ class A_test_personal(unittest.TestCase):
         '''上传不符合规范的文件，判断弹窗提示是否与预期结果一致'''
         self.brower.css_click('#upload')
         os.system('D:/job/tm_shop_selenium/tm_shop_test/Aut/personal_upfile_flasepjt.exe')
-        self.text=self.brower.css_get_divtest('.layui-layer-content.layui-layer-padding')
+        self.text=self.brower.css_get_divtext('.layui-layer-content.layui-layer-padding')
         self.assertEqual(self.text,'选择的文件中包含不支持的格式')
     def test_14_noaddlbt(self):
         '''验证不上传轮播图片，直接点击提交时，相关提示是否正常'''
@@ -227,7 +228,7 @@ class A_test_personal(unittest.TestCase):
         time.sleep(2)
         self.brower.css_click('.layui-btn.add')
         time.sleep(3)
-        self.brower.to_iframe('//*[@id="layui-layer-iframe100001"]')
+        self.brower.to_iframe('//*[starts-with(@id,"layui-layer-iframe")]')
         time.sleep(1)
         self.brower.css_click('.layui-btn.layui-btn-normal.submit')
         time.sleep(1)
@@ -263,7 +264,7 @@ class A_test_personal(unittest.TestCase):
     def test_18_fys_del(self):
         '''选择第一条轮播图，点击删除'''
         self.brower.css_click('.layui-btn.layui-btn-xs.public-bg2')
-        self.text=self.brower.css_get_divtest('.layui-layer-content')
+        self.text=self.brower.css_get_divtext('.layui-layer-content')
         self.assertEqual(self.text,'确定删除吗？删除后不可恢复')
         self.brower.css_click('.layui-layer-btn0')
         self.text=self.brower.css_get_text('.layui-layer-content')
@@ -295,25 +296,47 @@ class A_test_personal(unittest.TestCase):
         self.brower.css_click('.layui-btn.layui-btn-normal.submit')
         self.text=self.brower.css_get_text('.layui-layer-content')
         self.assertEqual(self.text,'请输入ios地址')
-        """
     def test_22_upd_all(self):
         '''编辑，输入iOS及Android地址，点击提交,提交后再次进入，确认已修改'''
-        self.brower.css_type('.layui-input iosurl','zx02frmrbwz_pkdza_PeopleDailyController')
+        self.brower.css_type('.layui-input.iosurl','zx02frmrbwz_pkdza_PeopleDailyController')
         self.brower.css_click('.layui-btn.layui-btn-normal.submit')
-        self.brower.
-        """
-
-
-
-
-
-
-
-
-
-
-
-
+    def test_23_mzsm(self):
+        '''验证免责声明，输入后保存，页面提示是否与预期结果一致'''
+        self.brower.pk_iframe()
+        self.brower.xp_click('//*[@id="menu-picture"]/dt/a')
+        self.brower.to_iframe('/html/body/section/div[2]/div[8]/iframe')
+        self.brower.css_click('.btn.btn-primary.submit')
+        time.sleep(1)
+        self.brower.xp_type('//*[starts-with(@id,"text-elem")]','这是一个免责声明')
+        self.brower.css_click('.btn.btn-primary.submit')
+        self.text=self.brower.css_get_divtext('.layui-layer-content.layui-layer-padding')
+        self.assertEqual(self.text,'保存成功')
+        self.brower.css_click('.layui-layer-btn0')
+    def test_24_ysxy(self):
+        '''验证隐私协议，输入后保存，页面提示是否与预期结果一致'''
+        self.brower.pk_iframe()
+        self.brower.xp_click('//*[@id="menu-agreement"]/dt/a')
+        self.brower.to_iframe('/html/body/section/div[2]/div[9]/iframe')
+        time.sleep(1)
+        self.brower.xp_type('//*[starts-with(@id,"text-elem")]','这是一个隐私协议')
+        self.brower.css_click('.btn.btn-primary.submit')
+        self.text=self.brower.css_get_divtext('.layui-layer-content.layui-layer-padding')
+        self.assertEqual(self.text,'保存成功')
+        self.brower.css_click('.layui-layer-btn0')
+    def test_25_guwm(self):
+        '''验证关于我们，输入后保存，页面提示是否与预期结果一致'''
+        self.brower.pk_iframe()
+        self.brower.xp_click('//*[@id="menu-aboutus"]/dt/a')
+        self.brower.to_iframe('/html/body/section/div[2]/div[10]/iframe')
+        self.brower.xp_type('//*[starts-with(@id,"text-elem")]', '这是一个关于我们')
+        self.brower.css_click('.btn.btn-primary.submit')
+        self.text = self.brower.css_get_divtext('.layui-layer-content.layui-layer-padding')
+        self.assertEqual(self.text, '保存成功')
+        self.brower.css_click('.layui-layer-btn0')
+    def test_26_yjfk(self):
+        '''验证意见反馈，如页面存在意见反馈，则选择第一条，点击删除，如没有则pass'''
+        self.brower.pk_iframe()
+        self.brower.xp_click('//*[@id="menu-comments"]/dt/a')
 
 
 
