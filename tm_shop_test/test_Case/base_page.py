@@ -133,6 +133,9 @@ class BasePage(object):
 	#退出iframe(回到主页面)
 	def pk_iframe(self):
 		self.driver.switch_to_default_content()
+	# 退出iframe（回到上一级）
+	def pk_bkiframe(self):
+		self.driver.switch_to.parent_frame()
 	#css判断页面元素是否存在，不存在返回False，存在返回Ture
 	def is_element_exist(self,selecter):
 		s=self.driver.find_elements_by_xpath(selecter)
