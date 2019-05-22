@@ -3,8 +3,10 @@
 # coding=utf-8
 import time
 from selenium import webdriver
+import configparser
 from selenium.webdriver.support.wait import WebDriverWait
 import os.path
+import os
 
  
 class BasePage(object):
@@ -186,3 +188,21 @@ class BasePage(object):
 	#获取页面cookie
 	def get_cookie(self):
 		self.cookies=self.driver.get
+
+# 获取配置文件绝对路径
+class Readcfg():
+    def __init__(self):
+        # self.xdpath=os.path.abspath(".")
+        # self.cfgpath=os.path.join(self.xdpath,"config.ini")
+        # # print(self.cfgpath)
+        self.conf=configparser.ConfigParser()
+        self.conf.read('D:/job/tm_shop_selenium/tm_shop_test/test_Case/config.ini',encoding="utf-8")
+    def get_database(self,param):
+        self.data=self.conf.get(section="DBServer",option=param)
+        return self.data
+    def get_sql(self,param):
+        self.sql=self.conf.get(section="SQL",option=param)
+        return self.sql
+    def get_url(self,param):
+        self.url=self.conf.get(section="Test_url",option=param)
+        return self.url

@@ -3,6 +3,7 @@
 import unittest
 import time
 import os
+import readcfg
 from test_Case import base_page
 from test_Case import mysql_page
 
@@ -36,8 +37,8 @@ class A_test_personal(unittest.TestCase):
         self.brower.css_type('.textarea.content','这是一个内容')
         self.brower.css_click('#test1')
         time.sleep(3)
-        #self.brower.css_click('.laydate-btns-clear')
-        self.brower.xp_click('//*[@id="layui-laydate1"]/div[2]/div/span[1]')
+        self.brower.css_click('.laydate-btns-clear')
+        # self.brower.xp_click('//*[@id="layui-laydate1"]/div[2]/div/span[1]')
         time.sleep(2)
         self.brower.xp_click('/html/body/div/div/div/button')
         self.text = self.brower.css_get_text('.layui-layer-content')
@@ -225,7 +226,7 @@ class A_test_personal(unittest.TestCase):
         self.brower.pk_iframe()
         self.brower.xp_click('/html/body/aside/div/dl[2]/dd/ul/li[4]/a')
         self.brower.to_iframe('/html/body/section/div[2]/div[7]/iframe')
-        time.sleep(2)
+        time.sleep(5)
         self.brower.css_click('.layui-btn.add')
         time.sleep(3)
         self.brower.to_iframe('//*[starts-with(@id,"layui-layer-iframe")]')
@@ -345,7 +346,8 @@ class A_test_personal(unittest.TestCase):
     def setUpClass(self):
         self.db = mysql_page.To_mysql()
         self.brower = base_page.BasePage()
-        self.url = "http://stabletm.360tianma.com/application/personal/html/index.html"
+        self.getcfg = base_page.Readcfg()
+        self.url = str(self.getcfg.get_url('test_url'))+"/application/personal/html/index.html"
         self.brower.open_url(self.url)
         self.brower.add_localSt()
 

@@ -137,6 +137,7 @@ class ReportTestResult(unittest.TestResult):
         self.sys_stdout = None
         self.sys_stderr = None
         self.outputBuffer = None
+
     
     @property
     def success_counter(self) -> int:
