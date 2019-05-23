@@ -5,15 +5,23 @@ import time
 from selenium import webdriver
 import configparser
 from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.firefox.options import Options
 import os.path
 import os
+import login_B_gtoken
+import readcfg
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 
  
 class BasePage(object):
 	'''定义一个页面基类，让所有页面都继承这个类，封装一些常用的页面操作方法到这个类'''
 	def __init__(self):
-		self.driver = webdriver.Firefox()
-		self.driver.implicitly_wait(10)
+		options = Options()
+		options.add_argument('--headless')
+		self.driver = webdriver.Firefox(options=options)
+		self.wait = WebDriverWait(self.driver, 20)
+
 
 	def open_url(self,url):
 		'''打开url'''
@@ -172,9 +180,16 @@ class BasePage(object):
 	#添加cookie
 	def add_ck(self,ck):
 		self.driver.add_cookie(ck)
-	#向lacalstorage注入token值
+	#B端后台登陆，向lacalstorage注入token值
 	def add_localSt(self):
-		self.driver.execute_script('localStorage.setItem("token", "2A2F0BA8C124851BF641BE481C9CF9FA");')
+		# self.driver.execute_script('localStorage.setItem("token", "2A2F0BA8C124851BF641BE481C9CF9FA");')
+		s=login_B_gtoken.Get_B_tk()
+		code=s.get_code()
+		rd=readcfg.Readcfg()
+		tk=s.login_get_token(str(rd.get_value('Test_url','user_name')),str(rd.get_value('Test_url','password')),code)
+		js='localStorage.setItem("token",'+ "'"+tk+"'"+');'
+		self.driver.execute_script(js)
+		# return js
 	#清除原页面cookie
 	def del_ck(self):
 		self.driver.delete_all_cookies()
@@ -189,20 +204,6 @@ class BasePage(object):
 	def get_cookie(self):
 		self.cookies=self.driver.get
 
-# 获取配置文件绝对路径
-class Readcfg():
-    def __init__(self):
-        # self.xdpath=os.path.abspath(".")
-        # self.cfgpath=os.path.join(self.xdpath,"config.ini")
-        # # print(self.cfgpath)
-        self.conf=configparser.ConfigParser()
-        self.conf.read('D:/job/tm_shop_selenium/tm_shop_test/test_Case/config.ini',encoding="utf-8")
-    def get_database(self,param):
-        self.data=self.conf.get(section="DBServer",option=param)
-        return self.data
-    def get_sql(self,param):
-        self.sql=self.conf.get(section="SQL",option=param)
-        return self.sql
-    def get_url(self,param):
-        self.url=self.conf.get(section="Test_url",option=param)
-        return self.url
+if __name__ == "__main__":
+	s=BasePage()
+	print(s.add_localSt())

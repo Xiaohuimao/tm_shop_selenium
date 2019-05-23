@@ -6,6 +6,9 @@ import os
 import readcfg
 from test_Case import base_page
 from test_Case import mysql_page
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 
 class A_test_personal(unittest.TestCase):
     '''个人中心组件后端测试用例'''
@@ -46,7 +49,7 @@ class A_test_personal(unittest.TestCase):
     def test_05_nolink(self):
         '''不输入链接，点击提交，判断保存成功提示语是否与预期一致'''
         self.brower.css_click('#test1')
-        time.sleep(2)
+        time.sleep(3)
         self.brower.css_click('.laydate-btns-now')
         time.sleep(1)
         self.brower.css_click('.btn.btn-primary.submit')
@@ -212,13 +215,17 @@ class A_test_personal(unittest.TestCase):
         '''上传背景图，判断上传后弹窗提示是否与预期结果一致'''
         self.brower.css_click('#upload')
         os.system('D:/job/tm_shop_selenium/tm_shop_test/Aut/personal_upfile_passpjt.exe')
-        time.sleep(3)
-        self.text=self.brower.css_get_text('div.layui-layer-content')
+        # time.sleep(3)
+        ele=self.brower.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, '.layui-layer-content')))
+        self.text=self.brower.css_get_text('.layui-layer-content')
         self.assertEqual(self.text,'保存成功')
     def test_13_pjtpushf(self):
         '''上传不符合规范的文件，判断弹窗提示是否与预期结果一致'''
+        time.sleep(2)
         self.brower.css_click('#upload')
+        time.sleep(1)
         os.system('D:/job/tm_shop_selenium/tm_shop_test/Aut/personal_upfile_flasepjt.exe')
+        # time.sleep(1)
         self.text=self.brower.css_get_divtext('.layui-layer-content.layui-layer-padding')
         self.assertEqual(self.text,'选择的文件中包含不支持的格式')
     def test_14_noaddlbt(self):
@@ -239,12 +246,13 @@ class A_test_personal(unittest.TestCase):
         '''验证新建上传轮播图功能是否正常'''
         self.brower.css_click('#demo1')
         os.system('D:/job/tm_shop_selenium/tm_shop_test/Aut/personal_upfile_passlbt.exe')
-        time.sleep(3)
+        # time.sleep(3)
         self.text = self.brower.css_get_text('.layui-layer-content')
         self.assertEqual(self.text, '上传成功')
     def test_16_fysno_paix(self):
         '''验证不输入排序，点击提交，相关提示语是否正常'''
         self.brower.css_click('.layui-btn.layui-btn-normal.submit')
+        time.sleep(1)
         self.text=self.brower.css_get_text('.layui-layer-content')
         self.assertEqual(self.text,'请输入排序')
     def test_17_fysno_url(self):
@@ -268,6 +276,7 @@ class A_test_personal(unittest.TestCase):
         self.text=self.brower.css_get_divtext('.layui-layer-content')
         self.assertEqual(self.text,'确定删除吗？删除后不可恢复')
         self.brower.css_click('.layui-layer-btn0')
+        time.sleep(1)
         self.text=self.brower.css_get_text('.layui-layer-content')
         self.assertEqual(self.text,'操作成功')
         #self.brower.css_click('.Hui-iconfont')
@@ -321,6 +330,7 @@ class A_test_personal(unittest.TestCase):
         time.sleep(1)
         self.brower.xp_type('//*[starts-with(@id,"text-elem")]','这是一个隐私协议')
         self.brower.css_click('.btn.btn-primary.submit')
+        time.sleep(2)
         self.text=self.brower.css_get_divtext('.layui-layer-content.layui-layer-padding')
         self.assertEqual(self.text,'保存成功')
         self.brower.css_click('.layui-layer-btn0')
@@ -331,6 +341,7 @@ class A_test_personal(unittest.TestCase):
         self.brower.to_iframe('/html/body/section/div[2]/div[10]/iframe')
         self.brower.xp_type('//*[starts-with(@id,"text-elem")]', '这是一个关于我们')
         self.brower.css_click('.btn.btn-primary.submit')
+        time.sleep(2)
         self.text = self.brower.css_get_divtext('.layui-layer-content.layui-layer-padding')
         self.assertEqual(self.text, '保存成功')
         self.brower.css_click('.layui-layer-btn0')
@@ -338,6 +349,7 @@ class A_test_personal(unittest.TestCase):
         '''验证意见反馈，如页面存在意见反馈，则选择第一条，点击删除，如没有则pass'''
         self.brower.pk_iframe()
         self.brower.xp_click('//*[@id="menu-comments"]/dt/a')
+        self.brower.quit_url()
 
 
 
@@ -346,10 +358,11 @@ class A_test_personal(unittest.TestCase):
     def setUpClass(self):
         self.db = mysql_page.To_mysql()
         self.brower = base_page.BasePage()
-        self.getcfg = base_page.Readcfg()
-        self.url = str(self.getcfg.get_url('test_url'))+"/application/personal/html/index.html"
+        self.getcfg = readcfg.Readcfg()
+        self.url = str(self.getcfg.get_value('Test_url','test_url'))+"/application/personal/html/index.html"
         self.brower.open_url(self.url)
         self.brower.add_localSt()
+        self.brower.driver.implicitly_wait(30)
 
 
 if __name__=="__main__":
