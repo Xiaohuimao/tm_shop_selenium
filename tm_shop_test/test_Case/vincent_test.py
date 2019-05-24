@@ -21,7 +21,7 @@ class Vincent(object):
         # self.driver =webdriver.Chrome("D:\Google\Chrome\Application\chromedriver.exe")
         self.driver.set_window_size(1440, 900)
         '''
-        self.driver=webdriver.Firefox()
+        self.driver=webdriver.Chrome()
 
     def visit_index(self):
         self.driver.get("http://stabletm.360tianma.com")
@@ -31,15 +31,13 @@ class Vincent(object):
         self.driver.switch_to_frame(self.frame)
 
 
-    def get_image_url(self, xpath):
-        # link = re.compile('background-image: url\("(.*?)"\); background-position: (.*?)px (.*?)px;')
-        elements = self.driver.find_elements_by_xpath(xpath)
-        for element in elements:
-            style = element.get_attribute("style")
-            return style
+    # def get_image_url(self, xpath):
+    #     # link = re.compile('background-image: url\("(.*?)"\); background-position: (.*?)px (.*?)px;')
+    #     elements = self.driver.find_elements_by_xpath(xpath)
+    #     for element in elements:
+    #         style = element.get_attribute("style")
+    #         return style
 
 if __name__ == "__main__":
     h = Vincent()
     h.visit_index()
-    s=h.get_image_url('/html/body/div/canvas[1]')
-    print(s)

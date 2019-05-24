@@ -17,9 +17,10 @@ from selenium.webdriver.common.by import By
 class BasePage(object):
 	'''定义一个页面基类，让所有页面都继承这个类，封装一些常用的页面操作方法到这个类'''
 	def __init__(self):
-		options = Options()
-		options.add_argument('--headless')
-		self.driver = webdriver.Firefox(options=options)
+		# options = Options()
+		# options.add_argument('--headless')
+		# self.driver = webdriver.Chrome(options=options)
+		self.driver = webdriver.Chrome()
 		self.wait = WebDriverWait(self.driver, 20)
 
 
